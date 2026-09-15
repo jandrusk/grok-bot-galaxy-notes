@@ -73,3 +73,38 @@ Matt Palmer, Lauren Tan, Roshan Sadanani building a company from scratch with Gr
 ### Replay status (afternoon check)
 - Earlier Day 1 (101 / morning Engineering) **not** scrubbable while live: no seek bar / VOD on the X broadcast player; x.ai/galaxy had no recording links yet.
 
+
+### ~4:52–5:02pm ET (1:52–2:02pm PT) — Live company build
+- Stream LIVE: https://x.com/i/broadcasts/1AxRnZbVpjaxl (~740K–746K viewers)
+- On camera: three builders at the Grok Bot Galaxy table (likely Matt Palmer, Lauren Tan, Roshan Sadanani — no lower-thirds to confirm names). Not Engineering continuation; PM session not started yet.
+- Live ops overlay seen earlier: **26 Done / 391 Messages / 1 Waiting / 20 Active**
+- Agents / roles visible across the build UI: **tater**, **hashbrown**, **Host Finder**, **Pixel**, **Founding Eng**, **Knowledge Base Manager**, **Image Gen**, **Outreach**, **grokbot**, **PlanetScale Bot**, plus **steve** (Growth Eng / New Bot)
+- Paper on table: **“Launch to Public”**
+
+#### Venue-finder track (main)
+- **PR #12** merged to `main` at `1f988c1` (~1:53pm PT); note in chat: “verification skill hardened.”
+- Status line: **READY as on main @ 1:53pm PT, venue-finder-oct-santamon.** Main track still **venue-finder**.
+- steve asked for regular status updates on tater’s venue-finder prototype; a standing **“Venue-finder status”** routine was created for **tater**.
+- Two venue cloud agents still running with **no PRs yet**:
+  1. Map + search + click-to-call
+  2. Contact / people lookup
+- Plan called out: notify when either agent finishes or opens a PR; also check every **30 minutes on weekdays, 9:00am–6:30pm PT**; stay quiet if nothing changed.
+- Follow-up in composer (typed live): “+ in parallel i want tater to spawn a fable agent to help us write a…”
+- Earlier idea also floated: research the tech stack and document dependencies.
+
+#### Founding Eng / fleet UI (brief)
+- **Founding Eng** list showed **Host Finder** (Working) and **Knowledge Base Manager** (“Ready to write…”), plus “8 more.”
+
+#### GitHub demo — `shipbythursday/thursday`
+- Private repo **`shipbythursday/thursday`**, file `api/signup.ts` on `main`.
+- Visible code:
+  - Imports: `DatabaseNotConfiguredError`, `insertSignup`
+  - Allowed roles: `chef`, `host`, `food-pro`, `operator`, `unspecified`
+  - Email-format validation regex
+  - Typed `Request` / `Response` interfaces
+- Latest commit shown: **“Resolve relative imports under Node ESM”** by `cursoragent and poteto` (green check)
+
+#### Takeaways
+- Company build is shipping a real product path (**venue-finder** + signup API) with multi-agent fleet roles, not slideware.
+- Pattern: merge hardening PRs to main, then attach a **standing status routine** on the owning agent so humans get progress without babysitting.
+- Bound the watch to weekday work hours and stay quiet on no-change — same digest discipline as this notes routine.
