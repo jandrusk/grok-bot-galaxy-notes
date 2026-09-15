@@ -140,3 +140,27 @@ Subtitle: “Not one omniscient blank box, but a full roster of teammates.”
 - PM workflow framed as three agent primitives: attention triage → multi-source customer research → goal-to-ship via Cloud Agents.
 - Prefer a **named multi-agent roster** over one generalist bot: referenceability, scoped memory, and parallelism.
 - Pattern: assign stable roles (CoS / EM / Product / Design / Recruiting / Data) so asks stay short and context stays in the right agent.
+
+
+### ~6:44–6:49pm ET (3:44–3:49pm PT) — Live company build: Drop 001 merch
+- Stream LIVE: https://x.com/i/broadcasts/1AxRnZbVpjaxl (~927K–931K viewers)
+- Still company-build / demo workflow (not BRB). Four-person studio panel on camera; Lauren visible in app as **Lauren @ Grok Bot Galaxy**. No lower-thirds confirming Matt Palmer / Lauren Tan / Roshan Sadanani.
+- Live ops overlay: **28 Bots / 958 Messages / 3 Working / 13 Active**
+- Role labels: **Growth Eng**, **Founding Eng**, **Creative Director**, plus **8 more**
+- Sidebar channels/roles spotted: **drop** (merch), **foil** (active), **ring** — **taber** (engineer), **grokbot** (architect), **resh** (design); Marketplace in menu
+
+#### Drop 001 — three merch pitches
+1. **Router Pin Pack** — 6 enamel pins matching avatar shapes (teardrop, triangle, cloud, circle, capsule, clover) with white pill eyes. **~$28–36** set.
+2. **Soft Blob Plush** — oversized circle-head plush, white slanted pill eyes; charcoal or cream. **~$32–42**.
+3. **Eye Cutout Beanie** — black beanie with embroidered circle face + pill-eye cutouts (character mask style). **~$34–44**.
+
+#### Decisions / agent moves in chat
+- Human: “lets start with just the grok bot plushies maybe”
+- Agent reply: “plushies only. generating a few Soft Blob variants off the official pill-eye character.”
+- **foil** (~5:44 PM in-app): “Hey. Lane's empty, so I'm cutting three ticket looks now — different foil treatments, gallery grade. Back with names, themes, and full notes.” Also referenced “2 messages with the real dr. squish.”
+- Workflow emphasis: check official reference images, confirm selections, then generate variants.
+
+#### Takeaways
+- Company build pivoted from venue-finder / signup API into a real **Drop 001** merch track with named role agents (Creative Director, foil, resh).
+- Pattern: narrow scope live (“plushies only”) before generating variants; parallel craft track (foil treatments) while the main product pick settles.
+- Price bands and SKU names already concrete enough to brief design/ops without a slide deck.
