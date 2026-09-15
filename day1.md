@@ -164,3 +164,39 @@ Subtitle: “Not one omniscient blank box, but a full roster of teammates.”
 - Company build pivoted from venue-finder / signup API into a real **Drop 001** merch track with named role agents (Creative Director, foil, resh).
 - Pattern: narrow scope live (“plushies only”) before generating variants; parallel craft track (foil treatments) while the main product pick settles.
 - Price bands and SKU names already concrete enough to brief design/ops without a slide deck.
+
+
+### ~7:19–7:22pm ET (4:19–4:22pm PT) — Stalk Bot (competitive intel fleet)
+- Stream LIVE: https://x.com/i/broadcasts/1AxRnZbVpjaxl (~980K–982K viewers)
+- Male presenter on stage (dark hair, glasses, tan jacket) screen-sharing Grok Bot. No lower-thirds; Matt Palmer / Lauren Tan / Roshan Sadanani not attributed on-camera.
+- Real demo content (not BRB/filler). Desktop clock showed Tue Sep 15 ~4:21 PM.
+
+#### Fleet sidebar (role bots)
+- **Close Bot** — Customer…
+- **Prod Bot** — Product
+- **Stalk Bot** — NOTED in… *(selected)*
+- **Proto Bot** — Design
+- **Yap Bot** — Comms
+- **Misc Bot** — Random
+- Marketplace + profile **Shub!** in sidebar footer
+
+#### Stalk Bot demo — churn / competitive loop
+- Chat showed a numbered competitive / churn checklist:
+  1. Apple / Siri capture – Craft won that workflow
+  2. Export / leaving with your notes
+  3. Price or seats for ~4 people
+  4. A feature we were missing
+  5. Other – one line is fine
+- Agent: “Saved under `/workspace/dossiers/_us/churn/`. Stalk loop's complete.”
+- Human: draft an MD of all Stalk Bot responsibilities (everything discussed; skip demo specifics) — “I want to revamp you a bit”
+- Bot wrote `/workspace/dossiers/_us/stalk-bot-responsibilities.md` (~6.5kB) covering: **NOTED baseline**, **Craft + Notion modules**, pulse delivery shape, **churn → Yap/Shub**, cadence, conduct, artifacts, voice
+
+#### Standing routines (Stalk Bot panel)
+1. **Competitor pulse** — Mon / Wed / Fri at 9:00 AM
+2. **Competitor churn watch** — weekdays at 10:00 AM
+3. **Weekly deep dive** — every Friday at 10:00 AM
+
+#### Takeaways
+- Competitive-intel bot pattern: bounded dossier paths (`dossiers/_us/churn/`), explicit handoff to Comms (**Yap**) / human (**Shub**), then a responsibilities MD so the bot can be revamped without re-explaining the world.
+- Named role fleet again (Close / Prod / Stalk / Proto / Yap / Misc) with Marketplace — same “roster over omniscient blank box” theme as the PM session.
+- Cadence stack: pulse (3×/week) + daily churn watch + Friday deep dive — coarse enough for humans, tight enough for competitors.
