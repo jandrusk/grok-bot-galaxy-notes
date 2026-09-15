@@ -108,3 +108,35 @@ Matt Palmer, Lauren Tan, Roshan Sadanani building a company from scratch with Gr
 - Company build is shipping a real product path (**venue-finder** + signup API) with multi-agent fleet roles, not slideware.
 - Pattern: merge hardening PRs to main, then attach a **standing status routine** on the owning agent so humans get progress without babysitting.
 - Bound the watch to weekday work hours and stay quiet on no-change — same digest discipline as this notes routine.
+
+
+### ~5:38–5:45pm ET (2:38–2:45pm PT) — Grok Bot for Product Managers
+- Stream LIVE: https://x.com/i/broadcasts/1AxRnZbVpjaxl (~826K–833K viewers)
+- Session window matches schedule: **Grok Bot for Product Managers** (Kevin Niparko). Two presenters on stage; no lower-thirds / names confirmed on-camera.
+- Still real session content (slides + stage), not BRB/filler.
+
+#### Slide: “PM use cases — Three primitives that change how PMs work”
+1. **Attention List** — Emergent from Slack, email, meetings, Granola. Priority lists and TODOs go stale quickly. Agents filter noise and surface what actually has your focus; compare stated goals vs. where time went.
+2. **Research across customer context** — Sources: Gong, Granola, Databricks, Notion, support tickets, user research DB. Agents synthesize across raw sources (e.g. which enterprises use a feature? where do customers get stuck in the funnel?).
+3. **Shipping** — “Grok Bot represents a double-digit % of internal merged PRs.” Cloud Agents with codebase, deps, secrets. PMs express goals; agents decompose, allocate, review, integrate.
+
+#### Slide: “Meet the team”
+Demo fleet roster (role bots, not humans):
+- **Cora** — Chief of Staff
+- **Emily** — Engineering Manager
+- Engineers under Emily: **Eileen**, **Larry**, **Igor**, **Nova**, **Einstein**
+- **Ashley** — Data / Analyst
+- **Pete** — Product
+- **Pixel** — Designer
+- **Rae** — Recruiter
+
+#### Slide: “Why many agents”
+Subtitle: “Not one omniscient blank box, but a full roster of teammates.”
+1. **Referenceability** — You know who does what. Ask Ashley for charts, Emily for shipping status, Pete for an RFC — without re-explaining the world every time. UI mock showed Create new Bot / Create group chat and named bots (Kenny, Justin, Luke).
+2. **Scoped memory** — They learn different things on the job. Chief of Staff should not debug computer-use evals; the eval agent is not archiving your mail.
+3. **Parallelism** — Many working at once on discrete tasks, coordinating on shared ones. “Ship while research runs while recruiting loops move.” Sidebar mock: Sales Outbound, Chief of Staff (“Drafted 8 outreaches…”), Inbox Manager (“Inbox triaged. 3 unread.”).
+
+#### Takeaways
+- PM workflow framed as three agent primitives: attention triage → multi-source customer research → goal-to-ship via Cloud Agents.
+- Prefer a **named multi-agent roster** over one generalist bot: referenceability, scoped memory, and parallelism.
+- Pattern: assign stable roles (CoS / EM / Product / Design / Recruiting / Data) so asks stay short and context stays in the right agent.
