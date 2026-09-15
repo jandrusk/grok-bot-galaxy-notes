@@ -200,3 +200,25 @@ Subtitle: “Not one omniscient blank box, but a full roster of teammates.”
 - Competitive-intel bot pattern: bounded dossier paths (`dossiers/_us/churn/`), explicit handoff to Comms (**Yap**) / human (**Shub**), then a responsibilities MD so the bot can be revamped without re-explaining the world.
 - Named role fleet again (Close / Prod / Stalk / Proto / Yap / Misc) with Marketplace — same “roster over omniscient blank box” theme as the PM session.
 - Cadence stack: pulse (3×/week) + daily churn watch + Friday deep dive — coarse enough for humans, tight enough for competitors.
+
+
+### ~7:34–7:37pm ET (4:34–4:37pm PT) — More Rapid-Fire Tips + Steal Stalk Bot
+- Stream LIVE: https://x.com/i/broadcasts/1AxRnZbVpjaxl (~1M views)
+- Male presenter inset (dark hair, glasses, light button-down) — no lower-thirds; Matt Palmer / Lauren Tan / Roshan Sadanani not attributed
+- Real tip deck (not BRB/filler), then close slide
+
+#### Slide: “More Rapid-Fire Tips”
+1. **Make a voice bot!** — Train it on your texts, emails, Slack, etc. so it improves over time.
+2. **Import your cookies!** — Give bots your cookies so they stay signed in to your tools; also let them use your IP.
+3. **Group bots by expertise/scope** — Feedback and deliberate management; bots get better as they learn preferences.
+4. **Great skills + saved learnings** — Worth 1–2 hours mapping responsibilities and setting bots up properly.
+5. **Bots will learn from you!** — Tag bots enough times and they start doing the right routing automatically.
+6. **Run auto-optimization routines** — More access/freedom → more the bots can do for you.
+
+#### Close: “Thank you” / Steal Stalk Bot
+- Purple thank-you slide with Grok Bot mark + QR labeled **Steal Stalk Bot** (ties to the earlier competitive-intel Stalk Bot demo).
+- Presenter still in inset while close slide showed.
+
+#### Takeaways
+- Tip stack is practical setup advice after the Stalk Bot demo: voice + cookies/IP + scoped fleets + skills/learnings + tagging habits + auto-opt routines.
+- “Steal Stalk Bot” QR is the shareable artifact from this segment — copy the competitive-intel pattern rather than rebuild from scratch.
