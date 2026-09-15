@@ -45,3 +45,31 @@ Matt Palmer, Lauren Tan, Roshan Sadanani building a company from scratch with Gr
 - Promote a working P0 pattern into a shared **playbook**, then broadcast it to the fleet via an ops-role bot (Jenny) rather than re-teaching each engineer bot by hand.
 - Parallel routines: coarse fleet watch (30m) + tight interrupt watch (5m) for the hot incident.
 
+
+### Expanded Engineering notes (Lingxi Li) — fuller capture from live watch
+- AI Maturity Curve: Autocomplete (Cursor Tab) → Ask & Edit (Cursor Agent) → Agentic Coding (Cursor 3) → Automations (Cursor Cloud Agent) → Autonomous Coding (Grok Bot)
+- “Introducing Grok Bot” claims: autonomous engineering around the clock; MCP to Notion/Figma/Slack/Jira/etc.; first-party Cursor Cloud Agents; memory + routines
+- “Why Grok Bot”: no more caffeinated laptop; cross-platform; can control a computer; first-party coding-agent integration
+- “Get Things Done When I Am Away”: bots inspect cloud-agent transcripts/screenshots/proofs and push back on the user’s behalf
+- Nightly 3am code cleanup: research repo, find quality issues, hand PRs by morning
+- TestFlight seat management: state the goal; Bot builds MCPs and listens on Slack instead of building an internal email tool
+- Workflow governance:
+  - Cloud agents only; humans own merging
+  - Board PRs only when an agent opens them; never merge or re-board another owner’s PR
+  - Explicit authorization before nightly runs; avoid unattended forever-loops
+  - One cloud agent per cleanup area; fold follow-ups into the same row/agent
+- FlyLo Engineering Fleet board: task name, cloud agent, last commit, owner, PR, stage (Working / Watching 1/3 / Watching 3/3)
+- Verification skill (`.cursor/skills/verify-*`): interview the repo not the user; identify surface, startup, programmatic drive method, evidence, isolation; prefer existing Playwright/Cypress; capture screenshots/logs/responses/exit codes/DB state; demo signup E2E with results in `#pr-reviews`
+- GitHub integration: read/write for actions, checks, code, discussions, issues, merge queues, PRs, workflows — scoped to a selected repo
+- Slack `#pr-reviews` receiving automated review/workflow updates
+- Recap: treat them like interns; think one level further (automate recurring unblock steps); start with a feedback loop
+
+#### Notable quotes
+- “No more caffeinated laptop.”
+- “Get Things Done When I Am Away.”
+- “Every night at 3 a.m., my Bot will start a thorough research across the repository… Then hand PRs over when I wake up.”
+- “Treat them like interns.” / “Think one level further.” / “Start with a feedback loop.” / “Simply chat.”
+
+### Replay status (afternoon check)
+- Earlier Day 1 (101 / morning Engineering) **not** scrubbable while live: no seek bar / VOD on the X broadcast player; x.ai/galaxy had no recording links yet.
+
