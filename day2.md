@@ -187,3 +187,48 @@ Left sidebar bots (tool integrations in parens):
 - Safety default in the live demo: enroll cold sequence as **draft-only**.
 - Daily prospecting + inbox + account-signal routines are the always-on layer; webhook Sequencer SF Triggers ties CRM events to sequencing.
 - Screenshots: `/workspace/grok-bot-galaxy-screenshots/day2-evening-check-01.png`–`04.png`, `day2-evening-detail-01.png`–`08.png`
+
+### ~6:40–6:50pm ET (3:40–3:50pm PT) — Company build resumes (Cupcake game studio fleet)
+- Stream still LIVE: https://x.com/i/broadcasts/1PKqrNyvmYwGb (~319K → ~325K views)
+- X title unchanged: “Grok Bot builds a Game Studio LIVE” (@bot)
+- After the SDR block, screen share is back on the **game-studio company build** (not Simon Bot). Studio PiP: three builders on the Galaxy couch (company-build trio).
+
+#### Studio bot fleet (left sidebar roles)
+Specialized bots coordinating the Cupcake / game-studio build (names as shown on screen; some OCR-fuzzy):
+- **Chief** — orchestration
+- **Crit** — Game Designer (mechanics / SoT)
+- **Duke** — Foundry / eng (PR merges, fastbuild)
+- **Ping** — Slack bridge
+- **Dot** — infra (“PlanetScale is connected”)
+- **Echo** — Recording / client-vs-crit notes
+- **Gina** (prototyping) / **dr. eggbot** / **Grok**
+- **Bake** — asked to review client impl against Lauren’s SoT / rules
+
+#### Crit mechanics SoT (on-screen design notes)
+Clean version of combat / onboarding rules being locked for ship:
+- **Captain + 2 mystery** (tape only) → secret order + no peek
+- Type triangle: **CHA > INT > DEX > CHA** at **+33%**
+- Ship first: **billboard the triangle**; glyph strip always on; three type icons under it; tape flashes +33% / edit loss
+- One forced tutorial: you have CHA, they show INT → put CHA on it
+- Teach on the **tape**, not pre-fight; keep **fog** until the fight
+- After each round: full reveal of what resolved (one-line e.g. CHA>INT — scores)
+- **Ghost NPC** with mid-setup types for onboarding only
+- **No shop**; **Captain edge** and redeem later
+- Older “product-plan-draft” mechanics path called dead until overruled
+
+#### Agent workflow moments
+- Dot → ask **Bake** to review client vs Lauren SoT; Bake pinged to surface gap list
+- Looking up Lauren’s recent DM → Cupcake v1 **design critique cards** (Notion); instruct **dr. eggbot** to spin up a mechanics-expert game-design bot with that doc as context
+- **Ping** Slack path: @mentions anywhere + DMs; Slack MCP connect card; message drafted to Lauren + Matt with Kanban / Cupcake board link
+- Routines visible: Slack-mentions watcher; **Cupcake today punch** (weekday multi-fire)
+
+#### Eng progress on Cupcake web
+- PR opened/merged for **replay tape playback on web** (feat: play back the replay tape / “potato”)
+- Gap list called out after merge: match shell → billboard → fixed CHA vs INT tutorial → fog reveal (+ kiss line); match-loop / billboard / fog reach still missing vs clerk + `/api/live` + admin on `apps/web`
+- Kanban / Tasks board for Cupcake: site refresh, engine iterations, verify bot SQL, etc. (Todo / In Progress / Done)
+
+#### Takeaways
+- Company build pattern mirrors SDR army: **Chief + role bots** (Crit design, Duke eng, Ping Slack, Dot DB, Bake review, eggbot specialist spawn) over shared SoT + Notion critique cards.
+- Mechanics are converging on fog-of-war tape reveal + rock-paper CHA/INT/DEX triangle — ship the billboard tutorial before shop/meta.
+- Human loop stays in-chat: Lauren/Matt get Slack + Kanban; bots draft/send after connect card.
+- Screenshots: `/workspace/grok-bot-galaxy-screenshots/day2-evening2-check-01.png`–`06.png`
