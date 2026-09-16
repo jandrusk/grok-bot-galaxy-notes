@@ -232,3 +232,63 @@ Clean version of combat / onboarding rules being locked for ship:
 - Mechanics are converging on fog-of-war tape reveal + rock-paper CHA/INT/DEX triangle — ship the billboard tutorial before shop/meta.
 - Human loop stays in-chat: Lauren/Matt get Slack + Kanban; bots draft/send after connect card.
 - Screenshots: `/workspace/grok-bot-galaxy-screenshots/day2-evening2-check-01.png`–`06.png`
+
+### ~7:19–7:27pm ET (4:19–4:27pm PT) — FlyLo Airlines support automation demo
+- Stream still LIVE: https://x.com/i/broadcasts/1PKqrNyvmYwGb (~348.9K → ~354.2K views)
+- X title unchanged: “Grok Bot builds a Game Studio LIVE” (@bot) — content switched away from Cupcake to a **FlyLo Airlines** support/ticket company build
+- Male presenter in PiP (name not readable); solo desk/stage laptop demo
+
+#### Product / knowledge sources
+- Product: **FlyLo Unlimited WiFi** pass
+- Knowledge: **Public Docs / FAQ** (Notion) + **Internal Policies**
+- Policy snippets shown:
+  - Refunds: email support for full review/reply
+  - Cancel subscription: if refund unavailable, cancel at end of billing period (support can schedule)
+  - FAQ **Pass sharing**: **No** — cannot share pass for simultaneous use (each traveler needs own pass)
+  - FAQ troubleshooting: WiFi off/on → rejoin FlyLo WiFi → open browser → Connect
+
+#### Support bot fleet (sidebar)
+- **Reply** — connected to policy; answers tickets (Stripe + docs)
+- **Demo Ticket Generator** — generates support tickets on a schedule
+- **Alert** — monitors logs / posts to `#alerts-dg`
+- **Tune** — learns from support; edits Public Docs FAQs
+- **Build** — building features / connectors
+- **Marketplace**
+
+#### Stripe refund loop (Carter + Damon)
+- User: “okay now try to answer carter and damon.”
+- Reply runs refund loop: Rules → Stripe → reply
+- **T-54 Carter Carr** (`carter@fake.com`): in policy (day 0) → canceled + **full $20 refund**, replied. **Trace 39**. Product shown earlier as “Unlimited All” monthly.
+- **T-55 Damon Deer** (`damon@example.com`): out of policy (20 days) → **denied refund**, offered **cancel at period end**. **Trace 40**. Stripe sandbox customer on **Digital Collections Pro** monthly ($20 next invoice Oct 27).
+- Both: assigned, **GB-Seen + GB-Answered**, snoozed **Waiting for Customer**
+- Stripe UI shown in sandbox (“Changes you make here don't affect real customers”)
+- Support ticket UI: threads for Damon / Susan Smith; Urgent flag on Damon’s thread
+
+#### Tune ↔ Reply KB loop (Pass sharing / Power outlets)
+- Tune editing **Public Docs FAQs**:
+  - Earlier decision: keep **Power outlets** as green FAQ add; leave **Pass sharing** out (then revisited)
+  - Later: **Pass Sharing** restored under Public/FAQ (green **No**); pinged Reply
+  - Transient issue: Power outlets disappeared after add; Tune re-checking with Reply
+- Decision UI pattern: A/B prompts (“Add Pass sharing?” / “Leave it”) with human confirm before KB write
+
+#### T-56 Elena Ellis — low-confidence handoff → high-confidence reply
+- Ticket: can I share my FlyLo Unlimited WiFi pass? Customer **Elena Ellis** (`elena01@aa.com`), company `aa.com`, assignee **David**, priority Normal, status Waiting for customer
+- First pass (**Trace 41**): Reply could **not** auto-reply — Pass Sharing missing from Public Docs FAQ → handoff (`GB-Seen`, note, unassigned); asked Tune to restore FAQ line
+- Tune: “Pass Sharing is live again under Public/FAQ (green No). Holding on Elena's customer reply until you say go…”
+- User: “Okay can you try again now”
+- Second pass (**Trace 42**): high-confidence reply — pass cannot be shared for simultaneous use; each traveler needs own pass. Assigned, **GB-Answered** / **GB-Seen**, snoozed Waiting for Customer
+- Email failure surfaced: Elena’s address on a **suppression list** — retry won’t work until reactivated
+- Next ticket visible: **T-57 VIP Victor Vance**
+
+#### Slack: FlyLo Airlines `#ask-grok-bot`
+- Workspace **FlyLo Airlines**; channels include `#ask-grok-bot`, `#alerts-dg`
+- David: “Internal Q&A is live here. Ask FlyLo support questions and I’ll answer from Public Docs and Internal Policies. Tip: invite @Cursor … so the auto-reply routine can hear messages.”
+- Cursor Agent added to channel for auto-replies
+- Sample questions: “what is the refund policy?”, “A customer is asking me if the plane has outlets -- pretty sure yes”, “What is the Refund SOP?”
+
+#### Takeaways
+- Support pattern = **Reply** (ticket + Stripe actions) + **Tune** (KB/FAQ writes) + **Demo Ticket Generator** + **Alert** (Slack) + human A/B confirm on doc changes
+- Policy-gated refunds: in-window full refund vs out-of-window deny + cancel-at-period-end
+- Missing FAQ → low-confidence handoff; restoring FAQ unlocks high-confidence auto-reply (Trace 41 → 42)
+- Internal agent Slack channel mirrors customer KB (Public Docs + Internal Policies) with @Cursor auto-reply
+- Screenshots: `/workspace/grok-bot-galaxy-screenshots/day2-evening3-check-01.png`–`06.png`, `day2-evening3-detail-01.png`–`07.png`
