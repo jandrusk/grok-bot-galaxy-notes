@@ -222,3 +222,28 @@ Subtitle: “Not one omniscient blank box, but a full roster of teammates.”
 #### Takeaways
 - Tip stack is practical setup advice after the Stalk Bot demo: voice + cookies/IP + scoped fleets + skills/learnings + tagging habits + auto-opt routines.
 - “Steal Stalk Bot” QR is the shareable artifact from this segment — copy the competitive-intel pattern rather than rebuild from scratch.
+
+### ~8:14–8:20pm ET (5:14–5:20pm PT) — Company build continues (post–Steal Stalk Bot)
+- Stream still LIVE: https://x.com/i/broadcasts/1AxRnZbVpjaxl (~1.1M views; ~8h45m into Day 1)
+- Official Founders block (Shub Gaur) runs 4:00–5:30pm PT; Day 1 livestream ends 6:00pm PT / 9:00pm ET
+- Not BRB/filler — real conversation after the Thank you / Steal Stalk Bot close
+
+#### On camera
+- **Early in this window:** split screen — remote woman (blue baseball cap, black tee, hoop earrings, headset mic; sunlit patio/outdoor backdrop) + studio trio at the round table
+- **Later:** studio-only full frame of the three company-build hosts at the Grok Bot Galaxy table (laptops open). No lower-thirds; likely Matt Palmer / Lauren Tan / Roshan Sadanani (same trio as earlier Day 1 build; names unconfirmed)
+- Remote guest unattributed (possible Founders guest / Shub Gaur — not confirmed on-screen)
+- Woman at table (right) speaking/gesturing; at one point held phone; center host on laptop; left host listening/smiling
+
+#### Whiteboard (partially legible; OCR noisy across frames)
+Most consistent readable fragments across screenshots:
+- Header involving **Grok Bot Ops** (Team / Tasks)
+- Line like **“Apply to come to our party”**
+- Another action line (readings varied: “Post your work” / “Print your cards” / “Pick your role” — treat as uncertain)
+- **Outputs** list with arrows to contact fields — consistently **Support / Email** and **Phone**; third field variously read as Business Name / LinkedIn / GitHub / Home
+- Side note: **Summary?** or **Search**
+- Green magnets clustered on the board
+
+#### Takeaways
+- After the Founders tip deck closed, the stream returned to live company-build discussion rather than ending early
+- Ops whiteboard framing looks like a structured intake/outreach checklist (party apply → capture name/email/phone → summarize/search) — fits the venue/event company-build thread from earlier today, but exact board wording is uncertain from stream resolution
+- Still inside Day 1 window; ~40+ minutes left until the scheduled 6:00pm PT / 9:00pm ET end
