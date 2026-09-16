@@ -112,3 +112,33 @@ Callouts:
 - Messaging-first + shareable templates are the packaging for field teams.
 - Demo pattern: proof-point researcher with computer use + tight human edit loop in chat.
 
+
+### ~2:40–2:45pm ET (11:40–11:45am PT) — Live company build resumes (CUPCAKE prototype)
+- Stream LIVE again after a short “Be right back” intermission: https://x.com/i/broadcasts/1PKqrNyvmYwGb (~100K → ~101.3K views)
+- Still in the gap before Sales (12:30–2:00pm PT agenda block)
+- No on-screen nameplates; studio panel matches Day 2 company-build trio (curly-haired man in grey hoodie, bearded man, woman with glasses)
+
+#### Studio panel
+Three builders back at the Grok Bot Galaxy table after BRB holding screen (bot-icon ring + “Be right back”).
+
+#### CUPCAKE app — low-fi wireflow (tldraw)
+Screen-share of **tldraw.com** wireframes / clickable proto for a game-style app named **CUPCAKE** (browser tabs also showed “Game documentation…” and “Cupcake … proto…”).
+
+**Core flow**
+1. **Login** — “CUPCAKE login with X”
+2. **Home** — header **@potato Diamond** / **@poteto Diamond** (spelling varied across frames); actions: **new match**, **team**, **log out**
+3. **Choose captain** — captain selection screen; interaction log showed “Clicked dr eggbot captain card”
+4. **Random options** — placeholders **random 1** / **random 2**
+5. **Manage bots** — list under profile header:
+   - **dr eggbot**
+   - **tradbot** (note: “(automatically generated)”)
+   - **steve**
+6. **Hire** — text field **bot template url** + **HIRE** button
+7. Confirmation — status text “Clicked Confirm team”
+
+Ties back to earlier Day 2 bot-competition whiteboard (Grok Bot Template → Draft team → Set lineup → Compete; CHA/DEX/INT; “trad bot”).
+
+#### Takeaways
+- Company build is shipping a playful multiplayer/team game (“CUPCAKE”) where bots are roster units you hire from a template URL and pick as captain.
+- Auto-generated **tradbot** + manual hires (**dr eggbot**, **steve**) suggest template-driven bot onboarding into the product.
+- Still pre-Sales session; expect more build or a handoff around 12:30pm PT / 3:30pm ET.
