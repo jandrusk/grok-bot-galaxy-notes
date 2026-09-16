@@ -142,3 +142,48 @@ Ties back to earlier Day 2 bot-competition whiteboard (Grok Bot Template → Dra
 - Company build is shipping a playful multiplayer/team game (“CUPCAKE”) where bots are roster units you hire from a template URL and pick as captain.
 - Auto-generated **tradbot** + manual hires (**dr eggbot**, **steve**) suggest template-driven bot onboarding into the product.
 - Still pre-Sales session; expect more build or a handoff around 12:30pm PT / 3:30pm ET.
+
+### ~5:55–6:05pm ET (2:55–3:05pm PT) — Grok Bot for SDRs (Simon Lackowski) — prospecting army live
+- Stream still LIVE: https://x.com/i/broadcasts/1PKqrNyvmYwGb (~277K → ~283K views)
+- X title: “Grok Bot builds a Game Studio LIVE” (@bot)
+- Agenda match: **Grok Bot for SDRs (Simon Lackowski)** (2:30–3:30pm PT)
+- On-camera: short dark hair, black shirt (no nameplate); shared screen is the Grok Bot workspace, not CUPCAKE
+
+#### Demo product: Simon Bot / Chief of Staff coordinating an SDR agent army
+Left sidebar bots (tool integrations in parens):
+- **Shakespeare** (Gmail) — drafting outbound email
+- **PLG Bot** (Salesforce)
+- **Amplemarket Bot** (Enrichment) — sometimes flagged with a warning
+- **Company Research Bot** (Sumble)
+- **Web Search Bot** (Exa)
+- **Voice of the Customer Bot** (Gong)
+- **Usage Bot** (Databricks)
+- **Army Huddle**
+- **Simon Soldier 5** / **Simon Soldier 1**
+
+#### Prospecting Flyo / Grok Bot ICP run
+- Artifact: `2026-09-16-flyo-prospecting-full.csv` (~237KB)
+- Merged **25 Director+** prospects across Salesforce, Sumble, Gong, Enrich, Usage, and Exa
+- Per row: unique email + LinkedIn connect/DM copy
+- All 25 enrolled in sequence **`grokbot-cold-v1`** — **draft-only, nothing sent**
+- Exa coverage: 25/25 with all five Soldiers
+- Shakespeare finishing Gmail draft IDs (8 already live; 17 new/updated)
+- Segment themes called out: OCC Desk, winter freeze, Atlas briefs, people-systems, FP&A board packs
+
+#### Example personalized angles (on-screen)
+- **Wendy** — “OCC brief that finishes itself”
+- **Xena** — “Winter freeze rationale rewritten every Tuesday”
+- **Quinn** — “Network Agent Desk + Grok Bot”
+
+#### Routines panel (standing SDR automations)
+- **50 Daily Prospects** — daily 8:00 AM
+- **Inbox Manager** — weekdays 8:00 AM
+- **Accounts Signal Scan** — weekdays 8:00 AM
+- **Sequencer Daily** — weekdays 8:00 AM
+- **Sequencer SF Triggers** — webhook
+
+#### Takeaways
+- SDR pattern = Chief of Staff bot orchestrating specialized tool bots (Gmail, Salesforce, enrichment, Sumble, Exa, Gong, Databricks) + “Soldiers” for parallel research.
+- Safety default in the live demo: enroll cold sequence as **draft-only**.
+- Daily prospecting + inbox + account-signal routines are the always-on layer; webhook Sequencer SF Triggers ties CRM events to sequencing.
+- Screenshots: `/workspace/grok-bot-galaxy-screenshots/day2-evening-check-01.png`–`04.png`, `day2-evening-detail-01.png`–`08.png`
