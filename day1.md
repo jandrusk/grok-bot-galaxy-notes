@@ -247,3 +247,10 @@ Most consistent readable fragments across screenshots:
 - After the Founders tip deck closed, the stream returned to live company-build discussion rather than ending early
 - Ops whiteboard framing looks like a structured intake/outreach checklist (party apply → capture name/email/phone → summarize/search) — fits the venue/event company-build thread from earlier today, but exact board wording is uncertain from stream resolution
 - Still inside Day 1 window; ~40+ minutes left until the scheduled 6:00pm PT / 9:00pm ET end
+
+### ~8:20pm ET (5:20pm PT) — Day 1 stream ended
+- Broadcast is now a **replay** (not LIVE / not BRB): https://x.com/i/broadcasts/1AxRnZbVpjaxl
+- Total duration **08:45:18**; ~1.1M views
+- Final minutes match the company-build window above (remote woman in Grok Bot cap + studio trio; whiteboard with green magnets still visible near 08:43)
+- Hard close on a **“Grok Bot Galaxy”** end graphic (colorful blob/eye marks) — no Day 1 wrap slide, thank-you, or tomorrow schedule
+- https://x.ai/galaxy pointed only at this same X broadcast; no other LIVE Galaxy stream found on the ~8:41pm ET check
