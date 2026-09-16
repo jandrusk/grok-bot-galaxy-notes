@@ -292,3 +292,32 @@ Clean version of combat / onboarding rules being locked for ship:
 - Missing FAQ → low-confidence handoff; restoring FAQ unlocks high-confidence auto-reply (Trace 41 → 42)
 - Internal agent Slack channel mirrors customer KB (Public Docs + Internal Policies) with @Cursor auto-reply
 - Screenshots: `/workspace/grok-bot-galaxy-screenshots/day2-evening3-check-01.png`–`06.png`, `day2-evening3-detail-01.png`–`07.png`
+
+### ~7:42–7:49pm ET (4:42–4:49pm PT) — Cupcake sound design (Suno) + product UI
+- Stream still LIVE: https://x.com/i/broadcasts/1PKqrNyvmYwGb (~366.6K → ~368.3K views)
+- X title unchanged: “Grok Bot builds a Game Studio LIVE” (@bot)
+- After FlyLo support block, back on **Cupcake / game-studio company build**. Studio PiP: company-build trio (Matt / Lauren / Roshan) on the Galaxy couch.
+
+#### Sound design track (Roshan Notion + Suno)
+- Notion task (**Roshan's Space HQ → Tasks**): **“Sound design for the game”** — Cupcake H2H battle SFX, UI cues, stadium bed, win/lose stingers. Marked **off auth/FE↔BE critical path** (parallel track).
+- Owner: **Tone**; status: **Foley v0 + Suno v6 mini refs + orch v4**; updated 2026-09-16 PT
+- Doc: **Listen — Suno v3 mini refs (Roshan, 2026-09-16)** — “Orchestral Power Stadium” general refs; WIP goal: attach audio cues to GalaxyBot & build the soundtrack. Note to check a **Battle Suite** that is orchestral — no Roland.
+- Suno refs listed (~2:30–2:35 each, one ~1:00): Suno ref 01–05
+- **Foley v0 stubs (experimental)** in Notion: mute-first sketches, soft peaks (~-12 dBFS), click-to-play; **do not autoplay the bed in product**. Cue stubs:
+  - 01 draft pick · 02 lineup lock · 03 reveal · 04 slot win · 05 slot lose · 06 match win
+- Live Suno create (suno.com): generating with **v6-mini**; example prompts/tracks seen:
+  - EDM workout / high-energy gaming prompt (128 BPM, D major) → tracks like **Fire Bus**, **Dot Fast-Entry**
+  - Action-RPG boss theme: *“orchestral ostinato, aggressive strings, bold brass, hard timpani and taiko hits, minor key, high stakes duel, cinematic but game-score, big drops and builds, 132 BPM, no EDM drops, no chiptune…”* → **Final Duel**; also **Draft Room Energy** (menu music)
+- Other tabs visible during share: Cursor Agent, Excalidraw, Strudel REPL, cupcake / bug-reports docs
+- Notion sidebar people/channels visible during listen doc: Matt, Roshan, Lauren, Tiana, Igor, Grok, Radost, Shantanu
+
+#### Cupcake web product UI (live)
+- **CUPCAKE** app (cream UI, pink pig mark) signed in as **@poteto** — **GOLD · 1000**
+- **Create a new bot** modal: “paste your bot template to create a new teammate”; URL field `https://x.ai/bot/marketplace/...`; Cancel / pink **CREATE**
+- **Global leaderboard** screen (empty shell + Back) — product surface progressing beyond match/hire flows
+
+#### Takeaways
+- Audio is an intentional parallel workstream: Foley stubs + Suno mini refs feed Cupcake H2H without blocking auth/FE/BE.
+- Soundtrack direction skews **orchestral stadium / boss-fight score**, not chiptune/EDM drops for the battle suite.
+- Product UI progress: marketplace bot-template hire path + global leaderboard shell live in the Cupcake web app.
+- Screenshots: `/workspace/grok-bot-galaxy-screenshots/day2-evening4-check-01.png`–`06.png`
