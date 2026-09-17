@@ -172,6 +172,48 @@ Screen share of **https://x.com/thursdayarena** (Edit profile visible — logged
 
 Screenshot: `screenshots/day3-1353-thursdayarena-x.png`
 
+### ~2:21–2:23pm ET — Thursday Arena Round 3 win + Vincent growth bot (Build A Game Studio)
+Presenter Mac menu bar ~**11:21–11:22am** (PT). Stream still LIVE (~**96.9K → 97.2K** views). Title unchanged: “Building a company in 3 days - launching today!”
+
+**Speaker card (on-stream overlay):** **Vincent** — X **@vincentzhu** (“Building SpaceXAI”). Studio PiP: two men with laptops at a desk (Grok Bot Galaxy backdrop). Live agenda table unchanged (Blake Schuler / Josh Kim slots still upcoming).
+
+#### A) Team/shop screen (~2:21pm ET)
+Early frame of match prep / shop UI (address bar read as **`thursdayarena.com/shop`** in page-context capture; later frames on `/match`):
+- “YOUR TEAM - FRONT ON THE LEFT”: **The Focused Newsreader**, **Autopilot - Press Critique**, **Projects Manager**
+- Shop cards visible: **Scout**, **Toxibot**, **AI Tea** ($15/month)
+- QR “Scan to get the app” overlay still present (destination not decoded)
+- Chat sidebar: login-only / empty
+
+Screenshot: `screenshots/day3-1421-page-context.png`
+
+#### B) Round 3 match on `thursdayarena.com/match` (~2:21–2:22pm ET)
+Logged in as **@roshan_s** (GOLD; score seen as **1047** then **1947** across frames).
+
+Progression captured:
+1. **Round 3** battle, score **1-1**, **4 gold** — player cards **PROJECTS MANAGER** (3/5), **CRITIQUITO: DESIGN CRITIQUE** (3/4), **THE MORNING NEWSPAPER** (5/1) vs AI **CREDIT CARD MAX** (3/4), **GTM LOOP CLOSER** (3/6); overlay “Drone is knocked out.”; controls Fast 2x / Skip (9/24)
+2. Later Round 3 frame: score **2-1**, “Your side holds the floor”, single **PROJECTS MANAGER** (4/9) vs empty enemy slots; buttons **YOU TAKE THE ROUND** / **CONTINUE** (34/34)
+3. **WIN** screen: **“2-1 vs AI, unrated”**, Round 3 of 3, **+4 gold**; surviving team abilities readable:
+   - **The Morning Newspaper** — PASS IT BACK: Give the last friend behind +1/+1
+   - **Cringuto - Design Critique** — STING: Hunt: Deal 2 damage to the enemy front
+   - **Projects Manager** — HYPE: Start: Give the front-most friend +2 ATK
+   - Opponent leftovers labeled Prospecting / Confirming Lead / Closing
+   - Buttons: **PLAY AGAIN**, **Home**
+
+Browser tabs visible on presenter machine included Cursor Agent, Excalidraw, cupcake, Launch Check, Thursday Arena.
+
+Screenshots: `screenshots/day3-1421-round3.png`, `screenshots/day3-1421-round3-floor.png`, `screenshots/day3-1421-win.png`
+
+#### C) Vincent (growth) bot — win-share idea (~2:22–2:23pm ET)
+Switched from the game to a multi-bot workspace (shipbythursday-style) with **Vincent (growth)** selected:
+- Sidebar bots/contacts: **Tone**, **Pixel (Designer)**, **Vincent (growth)**, **Ping (Slack)**, **Play (playtester)**, **Board (kanban owner)**, Marketplace, Roshan
+- Ping snippet: Lauren DM (~9:25am) mentioning thursdayare…
+- Play snippet: “#124 already mashed (ccfd3dad)…”
+- **Growth Playbook** notes: scarcity / rarer-tier unlock loop; “Share bot/card → downloads unlock rarer tier” as a Next deep-dive (rarity ladder, upgrade original vs foil, anti-farm)
+- Explicit proposal (chat bubble): **“We probably need to add a share screen to the win screen, share button to the win screen, so that when you win, you can share your result and be able to brag about that on X.”**
+- Vincent settings panel: Name **Vincent**, Label **growth**, Notifications on; input showed “Listening…” (~0:02)
+
+Screenshot: `screenshots/day3-1421-vincent-share-idea.png`
+
 _Further notes will land here as sessions continue (Customer Success ~12:30pm PT, Marketing ~2:30pm PT, Wrap/Showcase later)._
 
 ## URLs captured (Day 3)
@@ -202,4 +244,6 @@ _Further notes will land here as sessions continue (Customer Success ~12:30pm PT
 - https://x.com/mattyp
 - https://x.com/poletto
 - https://x.com/roshan_s
+- https://thursdayarena.com/shop
+- https://x.com/vincentzhu
 - QR destinations on stream (“Scan to get the app”) and on Starbase slide — **not decoded** this check
