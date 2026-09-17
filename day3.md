@@ -214,7 +214,54 @@ Switched from the game to a multi-bot workspace (shipbythursday-style) with **Vi
 
 Screenshot: `screenshots/day3-1421-vincent-share-idea.png`
 
-_Further notes will land here as sessions continue (Customer Success ~12:30pm PT, Marketing ~2:30pm PT, Wrap/Showcase later)._
+### ~3:10–3:15pm ET — Standing up marketing operations / Cerebro GTM (Matt Silberman)
+Presenter Mac menu bar ~**12:12–12:14pm** (PT). Stream still LIVE (~**107.8K → 108.6K** views). Title unchanged: “Building a company in 3 days - launching today!” Bottom overlay: **“Standing up marketing operations.”**
+
+**Speaker card:** **Matt** — Marketing @ x.ai — X **@matt_silberman**. Two presenters visible in stage PiP (Grok Bot Galaxy backdrop). Live agenda table unchanged (Blake Schuller CS 12:30–1:15 PT; Josh Kim Marketing 2:30–3:15 PT still listed ahead).
+
+**Bot workspace:** shipbythursday-style multi-bot sidebar with **Cerebro (GTM)** selected. Other bots/contacts visible: **Chief (CoS)**, **dr eggbot**, **Data (Data Science)**, **Bake (Founding Eng)** (notes: “#207 opened (lauren)” / later “#208 opened”), **Crit (Game Designer)** (“Logged on the Launch dashboard…”), Marketplace, **Roshan**. Cupcake Eng side panel: **steve** (chief of staff), **Bake**, “44 more”. Chrome tab title partially readable: “Cerebro by …”.
+
+#### A) ICP / who Cerebro is hunting (~3:10pm ET, X player frame)
+Cerebro doc header (from X embed): **“Who will match our initial content UI, looking for ad buyer ICP now.”**
+- **ICP (company):** Brands seeking short, watchable attention from AI auto-battles — stadium-themed around auto-battles on **thursdayarena.com**
+- **Fit:** early discovery / sensor-adjacent or adjacent entertainment; already invests in gaming/esports ads (influencers, mid-roll inventory, match sponsorships); willing to use early/niche inventory
+- **Non-fit:** Enterprise SaaS; mature/narrow shows; brands needing heavy brand-safety review before testing
+- **Personas:** UA/growth leads (indie/mid-tier gaming); brand sponsorship leads (snack/drink CPG); ads/GTM leads at discovery platforms (link portals, “games like this” sites)
+
+Screenshot: `screenshots/day3-1510-02-x-live-107.8k.png`
+
+#### B) Priority segments + qualification scoring (~3:11–3:12pm ET)
+Cerebro notes (numbered strategy / segments):
+1. **Other games & discovery** — casual/web/mobile studios + discovery platforms (game portals, “games like X”, casual catalogs)
+2. **Snacks & drinks** — session snacks, energy drinks, delivery snacks for gaming/lean-back; brand/sponsorship at snack & drink CPG (“lean-back / gaming adjacency without a full Twitch deal”)
+3. **Adjacent entertainment** — short-form watch/play culture (streaming apps, meme/merch, creator tools) — stretch / later
+
+**Qualification & scoring** table (Point | Why it matters | High/Strong | Low/Pass):
+| Point | High / Strong | Low / Pass |
+| --- | --- | --- |
+| Has paid UA or sponsorship motion (jobs, LinkedIn, case studies) | Can buy without inventing a budget process | Pure organic / no paid history |
+| Category: game, CPG snack/drink, or entertainment discovery | Matches stadium vibe | Enterprise software, finance, healthcare |
+| Targets Gen Z / young millennial / gaming or creator audiences | Overlaps Cupcake players | Pure enterprise or parents-only |
+| Comfortable with early inventory / indie tests | Matches soft distribution today | Only buys AAA / premium guaranteed |
+| SF / tech / AI-culture adjacency (optional boost) | Matches early player lean | Irrelevant alone |
+
+Screenshots: `screenshots/day3-1511-03-segmentation-score.png`, `screenshots/day3-1511-04-qualification-scoring.png`, `screenshots/day3-1511-05-scoring-followup.png`, `screenshots/day3-1512-08-fullscreen-current.png`
+
+#### C) Signal recipes + outbound story (~3:13–3:15pm ET)
+**Signal recipes** (Cerebro):
+- **Hiring:** User Acquisition, Brand Partnerships, Sponsorships, Performance Marketing at game or CPG companies
+- **Spend proxies:** AppLovin / Unity Ads / ironSource case studies; Twitch/YouTube gaming sponsorships; Discord partner programs
+- **Product:** shipping/promoting casual/web/mobile games or snack SKUs positioned for gaming/late-night
+- **News:** Seed–Series B funding for games/CPG; new title / flavor line launches
+- **Negative:** enterprise seats only; “no gaming” brand guidelines; restaurant OS / pop-up tooling
+
+**Outbound story (one line):** “Stadium sponsorship around short auto-battles where AI-template characters compete — discovery + session-fuel brands, not interstitial spam.”
+
+Cerebro offered to expand games-vs-snacks segments or add a creative segment. On-stream suggestion (speech bubble): cold emails should include stats (e.g. “we built a game that grew to x users in just a day!”). Input showed “Listening…” / “Message Cerebro”.
+
+Screenshots: `screenshots/day3-1510-01-marketing-ops.png`, `screenshots/day3-1512-06-lower-controls-agents.png`, `screenshots/day3-1512-07-x-live-edge-marketing.png`, `screenshots/day3-1513-09-signal-recipes-matt.png`
+
+_Further notes will land here as sessions continue (Customer Success ~12:30pm PT, Marketing Josh Kim ~2:30pm PT, Wrap/Showcase later)._
 
 ## URLs captured (Day 3)
 - https://x.com/i/broadcasts/1YGNrbXEeazGw
@@ -246,4 +293,5 @@ _Further notes will land here as sessions continue (Customer Success ~12:30pm PT
 - https://x.com/roshan_s
 - https://thursdayarena.com/shop
 - https://x.com/vincentzhu
+- https://x.com/matt_silberman
 - QR destinations on stream (“Scan to get the app”) and on Starbase slide — **not decoded** this check
