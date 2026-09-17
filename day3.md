@@ -397,9 +397,76 @@ QR “Scan to get the app” still on X player (destination still not decoded).
 
 Screenshots: `screenshots/day3-1618-untitled-form.webp`, `screenshots/day3-1623-05.png`, `screenshots/day3-1625-01.png`, `screenshots/day3-1625-northwind-form-expanded.webp`
 
+### Thursday Arena launch build — analytics, crumb P0s, mid-battle, leaderboard, bots (~4:48–4:52pm ET / ~1:48–1:52pm PT)
+
+Still LIVE on https://x.com/i/broadcasts/1YGNrbXEeazGw — title **“Building a company in 3 days - launching today!”** (Grok Bot / @bot). Viewers **~129.8K → ~130.9K**. Studio PiP: three people at round table with laptops (no readable lower-thirds / speaker cards). Host Mac menu bar ~**1:49–1:52 PM** local (PT). QR “Scan to get the app” (X logo) still undecoded; X chat pane blank/login-gated.
+
+x.ai/galaxy agenda unchanged: Marketing (Josh Kim) 2:30–4:00 PM PT; **Livestream Wrap and Final Showcase** 4:30–5:30 PM PT; Luma livestream `https://luma.com/3ifrgttw`.
+
+#### A) Vercel Analytics — ThursdayArena (~4:48pm ET)
+Screen share of **Vercel Analytics** for project **ThursdayArena** (sidebar: Overview, Deployments, Logs, Analytics active, Speed Insights, Observability, Firewall, CDN, Env vars, Domains…).
+
+**Pages (by visitors):** `/` 1.3K · `/match` 1.1K · `/home` 626 · `/sign-in` 406 · `/leaderboard` 253.
+
+**Top referrers:** `t.co` 706 · `x.com` 358 · `google.com` 34 · `com.twitter.android` 18.
+
+**Geo:** US 50%, Canada 7%, UK 4%, India 4%. **Devices:** Mobile 51%, Desktop 48%, Tablet 1%. **OS:** iOS 44%, macOS 29%, Android 13%, Windows 13%.
+
+Screenshot: `screenshots/day3-1648-01.png`
+
+#### B) crumb / crumble — lineup P0 cluster + X Authorize gate (~4:49pm ET)
+Internal Slack-style app **crumb** (sidebar: stuff/bento/ping; eng/crumb; contacts “steve” Chief of St…, “the real dr…” Bot Desig…). Playtester bot **crumble** driving P0 repros for Thursday Arena lineups.
+
+Notable crumble messages:
+- “elder drama still stuck at launch. X authorize for @poteto repro hasn't landed. hashbrown approve pending after that. no autofix.”
+- “same p0 cluster, third report: @danieljomphe started a fight with **zero fighters**. still waiting on your X authorize so crumb can confirm.”
+- “fourth on the same lineup p0: @mistermartindee — select works, team fails. 4 players now. still blocked on that X authorize for crumb.”
+
+Interactive prompt: “crumb needs X Authorize for @poteto to finish the lineup P0 repro — want to clear that now?” Options: **A)** I'll authorize now · **B)** Use a different test account · **C)** Hold — ticket without crumb confirm.
+
+Auth/repro log (~1:44 PT in thread): **thursdayarena AUTH PASS** for @poteto via `clerk.thursdayarena.com`; `/home`, `/roster`, `/match`, `/api/me` OK (Gold **1021**); **arena-brown-nine** still “Loading your account” filed under `#bug-reports` / `#bug-repro`; “Empty-fight-start folded into P0-2. Repro still mid (signed in).” Critical P0 repro run.
+
+Screenshots: `screenshots/day3-1648-02.png`, `screenshots/day3-1648-04.png`, `screenshots/day3-1648-07.png`
+
+#### C) Mid-battle — @poteto Round 2/3 (~4:49pm ET)
+Thursday Arena match UI over crumb: player **@poteto** **GOLD 1021**. Banner **“They took round 1.”** Round **2 of 3**, score **0–1**, **+3 gold**.
+
+Your line: **Nightly Audit Engineer** (Cower) 3/6 · **SEO & Ads Desk** (Pin) 2/5 · empty slot (“TAP TWO TO SWAP”). Enemy: **Credit Card Mag** (Chow) · **Meeting Recap Desk** (Echo). Shop card highlighted: **Recruiting Coordinator** (Uncommon, 4G) — “SPOT Start: give 50% of its ATK to the friend ahead.” Flavor by Tommy Hansen; Freeze button.
+
+Live ticker samples: @bradvincnet / @devminas / @juanmogollonc / @ludwigvzla building a team; @devtony mid-fight (later ticker also @gravitatecre, @irsthaeth, @kononovme).
+
+Screenshot: `screenshots/day3-1648-03.png`
+
+#### D) Global leaderboard + past matches (~4:50–4:51pm ET)
+`thursdayarena.com/leaderboard` — Global leaderboard (cupcake mark), still as @poteto GOLD 1021:
+1. @arithemonke — Diamond **1214**
+2. @devarminas — Diamond **1211**
+3. @blacksheepjav — Platinum **1194**
+4. @notabot — Platinum (score partially obscured)
+5. @1yearhackathon — Platinum
+6. @forethoughttech — Platinum
+
+`thursdayarena.com/matches` — Past matches (rated, newest first, Season 1 / Sep 17):
+- **WIN** vs @mattyp
+- **LOSS** vs @bs_donthurtme
+- two additional **WIN**s (opponents obscured in capture)
+
+Screenshots: `screenshots/day3-1648-05.png`, `screenshots/day3-1648-06.png`
+
+#### E) Bot / card catalog (~4:52pm ET)
+`thursdayarena.com/bots` — Common cards grid (authors + abilities visible this pass):
+- **Stills & Clips Desk** (Matt Palmer) — WAKE: friend ahead attacks → deal 1 to enemy front
+- **Tech Demos** (Matt Palmer) — FIRST SEAT: Start move to front
+- **The Morning Newspaper** (Karen X. Cheng) — PASS IT BACK: Faint give two friends behind +1/+1
+- **Video Edit Desk** (X Freeze) — WAKE (clip when friend ahead swings)
+- **Webby** (Farzad) — BULK: Start +2 HP
+- **Writing Bot** (Matt Palmer) — HYPE: Start front-most friend +2 ATK
+- **WTD** (Jenna Hampei) — HYPE: Start front-most friend +2 ATK
+- **X Brief** — mostly obscured by PiP
+
+Screenshot: `screenshots/day3-1648-08.png` (also wider context `screenshots/day3-broadcast.png`)
+
 _Further notes will land here as sessions continue (Wrap/Showcase later)._
-
-
 
 ## URLs captured (Day 3)
 - https://x.com/i/broadcasts/1YGNrbXEeazGw
@@ -438,4 +505,15 @@ _Further notes will land here as sessions continue (Wrap/Showcase later)._
 - Slack channel `#flylo-postsales` (demo)
 - Brightline / Harbor / Northwind / Station 12 / Atlas / Agent Desk / GO OUT NOW (demo account & workflow names; no new public product URLs)
 - Bugbot / iPad SSO (mentioned as open promises in staff meeting)
+- https://thursdayarena.com/sign-in
+- https://thursdayarena.com/matches
+- https://thursdayarena.com/roster
+- https://thursdayarena.com/api/me
+- https://clerk.thursdayarena.com (auth)
+- https://x.com/poteto
+- https://x.com/arithemonke
+- https://x.com/devarminas
+- https://x.com/blacksheepjav
+- Vercel Analytics project ThursdayArena (dashboard; no public share URL shown)
+- crumb / crumble / #bug-reports / #bug-repro / arena-brown-nine (internal demo tooling)
 - QR destinations on stream (“Scan to get the app”) and on Starbase slide — **not decoded** this check
