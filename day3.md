@@ -261,7 +261,80 @@ Cerebro offered to expand games-vs-snacks segments or add a creative segment. On
 
 Screenshots: `screenshots/day3-1510-01-marketing-ops.png`, `screenshots/day3-1512-06-lower-controls-agents.png`, `screenshots/day3-1512-07-x-live-edge-marketing.png`, `screenshots/day3-1513-09-signal-recipes-matt.png`
 
-_Further notes will land here as sessions continue (Customer Success ~12:30pm PT, Marketing Josh Kim ~2:30pm PT, Wrap/Showcase later)._
+### ~3:44–3:48pm ET — Customer Success / Post-Sales (Gus Dream Team + FlyLo)
+Stream still LIVE on https://x.com/i/broadcasts/1YGNrbXEeazGw (~**114.9K → 115.4K** views). Title unchanged: “Building a company in 3 days - launching today!” Presenter in PiP: woman with long brown hair (matches agenda slot **Blake Schuler** / Customer Success; no on-screen name card captured this check). Overlay on earlier x.ai/galaxy embed frames still showed “Standing up marketing operations” / Matt @matt_silberman while the direct X player had already moved to this CS demo.
+
+**Brief Cerebro coda** (still visible on x.ai embed ~3:44 mark / ~108K views before CS frames dominated): outbound story + cold-email traction-stats prompt; Cerebro offered Clay search criteria / contact titles; replied it would dig for verified Cupcake numbers and “Messaged 🍊 Chief.”
+
+#### A) Gus (Chief of Staff) Dream Team (~3:44–3:46pm ET)
+shipbythursday-style workspace with **Gus** selected as Chief of Staff. Dream Team sidebar:
+- **Franny Form** — “Creating it in Google Forms…”
+- **Wally Writer** — cleaner / ~95% progress notes
+- **Trudy Truth**
+- **Frankie Follow Up** — “Galaxy Thu board set…” / staging notes
+- **Scout** — “Galaxy staging locked…” (active)
+
+**Routines panel** (Gus):
+- **Daily brief** — Weekdays 8:30 AM
+- **Call prep** — Every 15 minutes on weekdays
+- **Unfinished promises** — Weekdays 9:00 AM and 1:00 PM
+- **Ask watch** — Every 15 minutes on weekdays
+- **Visibility watch** — Weekdays 8:00 AM
+
+Screenshots: `screenshots/day3-1544-main-01.png`, `screenshots/day3-1544-main-02.png`, `screenshots/day3-1544-main-03.png`
+
+#### B) Frankie Follow Up — Harbor post-call pack drafts (~3:45pm ET)
+Main pane showed **Message from Frankie Follow Up** / Harbor post-call pack for Blake:
+- **Email draft** → **Maya Chen**, cc **Priya Nair**; subject “Hey Maya!”; next steps on **Agent Desk** and **Atlas**; chase provisioning for **Patel, Ruiz, Nguyen**; working session **Thursday 11 ET** with **Jordan** (fallback Friday 10); trimmed **QBR** agenda (Health, Agent Desk timeline, Atlas brief, risks)
+- **Slack draft** → **Alex** in **`#flylo-postsales`** (chat also showed Harbor / new champion next week / ROI PDF)
+- Notes: “SSO still P0 (Patel/Ruiz/Nguyen). Station 12 can sit as the QBR win story. **Brightline HOLD**.”
+- Attachment: **`flylo-how-to-collect-roi.pdf`** (67kB) / “FlyLo ROI one-pager”
+
+Live query in Gus chat: **“where are we at with harbor”** → Gus: “On it. Grabbing Harbor from the account bot, Frankie, and Scout.” Multi-bot status (“4 messages… 3 Bots”); waiting on Frankie then Scout.
+
+Screenshot: `screenshots/day3-1544-main-07-x-direct.png` (also `screenshots/day3-1544-main-03.png`)
+
+#### C) Franny Form — Northwind / FlyLo ROI Google Form (~3:46–3:48pm ET)
+Chat: **Dot** (also shown as Gus CoS) at ~12:44: “Make me an roi form for northwire” → Franny: building **Featherrail Logistics FlyLo** ROI form (default SQL); draft only; “Creating it in Google Forms now — I’ll send the share link when it’s live.”
+
+Live Google Forms editor on screen:
+- Title: **Northwind Logistics – FlyLo ROI check-in**
+- Description: “Quick check-in so we can better FlyLo to your team. Takes about 2 minutes.”
+- Question: “What team / role are you on?” (required short answer)
+- Browser tabs included “Flightline Health - FlyLo” and the Forms edit tab
+- Edit URL (from address bar): `https://docs.google.com/forms/d/1Xl-t6qaT-gmNke4lbeloKJnjep7-M-lnGRv6St-Ar6I/edit`
+
+Form-design philosophy blurb in Franny pane: “Design for trust and time… Treat create and send as separate jobs… forms aren’t bureaucracy—they’re a quiet operating system for learning.”
+
+QR “Scan to get the app” still visible beside the X player (destination still not decoded).
+
+Screenshots: `screenshots/day3-1544-main-04.png`, `screenshots/day3-1544-main-01.png`
+
+#### D) Cupcake launch KPI decks + Data Season 1 pulses (~3:45–3:49pm ET)
+On the https://x.ai/galaxy embed (viewer badge ~**108.1K**; two male presenters in PiP; overlay still **“Standing up marketing operations”**), marketing/ops showed Cupcake launch metrics while the direct X player had also been flipping through CS (Gus) frames — both captured this check.
+
+**Slide — Headline KPIs • 1 / 9** (“Cupcake launch — headline KPIs • Season 1 • ~11:25am PT”):
+
+| Metric | Value |
+| --- | --- |
+| Practice sessions | **2,255** |
+| Practice → X | **208** |
+| X players | **1,029** |
+| SAP matches | **983** |
+| Public matches | **2,983** |
+
+**Slide — Practice vs X signups (5m buckets, PT)** (Traffic 5-minute buckets **2 / 4**): dual series **Practice starts** (blue) and **X signups** (pink) from ~09:35–11:55 PT; both spike ~10:25 (practice ~600, X signups ~400) then taper with smaller peaks.
+
+**Data bot Season 1 pulse log** (message Data; Cerebro/Chief/Bake/Crit sidebar still visible):
+- **11:42 AM:** 2,374 practice · 1,074 X · **9.6%** practice→X · 1,030 SAP · 3,135 public · WR **45.9%**
+- **12:03 PM:** 2,574 practice · 1,132 X · **9.8%** practice→X · 1,079 SAP · 3,240 public · WR **46.7%** (+136 practice in last 15m)
+
+Page chrome bot counters ~**47** bots / **267** messages / **2** working / **19** active.
+
+Screenshots: `screenshots/day3-1549-cupcake-kpis.webp`, `screenshots/day3-1544-main-08-xai-embedded.png`, `screenshots/day3-1544-main-09-xai-embedded.png`
+
+_Further notes will land here as sessions continue (Wrap/Showcase later)._
+
 
 ## URLs captured (Day 3)
 - https://x.com/i/broadcasts/1YGNrbXEeazGw
@@ -294,4 +367,7 @@ _Further notes will land here as sessions continue (Customer Success ~12:30pm PT
 - https://thursdayarena.com/shop
 - https://x.com/vincentzhu
 - https://x.com/matt_silberman
+- https://docs.google.com/forms/d/1Xl-t6qaT-gmNke4lbeloKJnjep7-M-lnGRv6St-Ar6I/edit
+- Featherrail Logistics / Northwind Logistics / Flightline Health / FlyLo (demo account names; no public product URLs shown)
+- Slack channel `#flylo-postsales` (demo)
 - QR destinations on stream (“Scan to get the app”) and on Starbase slide — **not decoded** this check
