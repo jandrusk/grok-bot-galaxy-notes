@@ -466,9 +466,54 @@ Screenshots: `screenshots/day3-1648-05.png`, `screenshots/day3-1648-06.png`
 
 Screenshot: `screenshots/day3-1648-08.png` (also wider context `screenshots/day3-broadcast.png`)
 
-_Further notes will land here as sessions continue (Wrap/Showcase later)._
+### ~5:09–5:13pm ET — Livestream Wrap and Final Showcase (Dan Hill + Cerebro / Research)
+
+Stream still **LIVE** (~135.8K→136.2K on X). On-screen **Live agenda** (Pacific clock on demo machine): Build A Game Studio 1:15–2:30 & 3:15–4:30; **Grok Bot for Marketing (Josh Kim)** 2:30–3:15; **Livestream Wrap and Final Showcase** **4:30–5:15** (highlighted as current). Speaker card: **Dan Hill (@danhilltech)** with Stripe mark. Stage PiP: three-person panel at the round table (Grok Bot Galaxy backdrop).
+
+#### A) Cerebro GTM — Clay partner search + Clay connector prompt (~5:09–5:11pm ET)
+Multi-bot sidebar still: **Chief (CoS)**, **dr eggbot**, **Data (Data Science)**, **Cerebro (GTM)** selected, **eng → Bake (Founding Eng)** (unread: Matt’s `#231` lobby revamp + X link…), **design → Crit / Glow / Tone**, Marketplace, **Roshan**.
+
+Prompt (paraphrased from on-screen chat): use **Clay** / “ClayCP” to find ~10 companies matching A-tier advertiser/partner personas for the game.
+
+Cerebro plan (A-tier categories):
+1. Casual / hyper-casual games + game discovery
+2. Snacks / drinks / delivery (“session fuel”)
+3. News / briefings / “get smart in 5 minutes”
+
+UI card: **“Add the Clay connector?”** — needed to search Clay’s company/people database for partner fits — options **[A] Yes, install Clay** / **[B] Not now**. Clay not yet connected in the demo.
+
+Screenshots: `screenshots/day3-1710-01.png`, `screenshots/day3-1710-02.png`
+
+#### B) Marketplace — “Research” bot by Farzad (~5:11–5:12pm ET)
+Browser open to **`https://x.ai/bot/marketplace/bots/research`**
+- Title: **Research** by **Farzad**
+- Blurb: research / fact-check desk that runs every pass on the latest Grok model with **live web search** — sourced, dated claims instead of training-only answers
+- Primary CTA: **Import Bot**
+- Side panels: **Memories** (facts it already knows), **Skills** (playbooks it can run)
+- Claims on page: every check uses **Grok 4.6** + live web search; not Sonnet / clerk model
+- Grok CLI note shown: installed at `~/.grok/bin/grok` (**v1.0.5**), signed in via grok.com device auth; defaults `model grok-4.6`, `reasoning-effort xhigh`, live web search on; example headless: `grok --no-auto-update --reasoning-effort xhigh -m grok-4.6 --always-approve -p "..."`
+
+Screenshot: `screenshots/day3-1710-03.png`
+
+#### C) Cerebro logs Dan Hill’s sponsored-card idea (~5:12–5:13pm ET)
+Dan Hill (on stage / in chat): rather than pay-to-win, find partners to **sponsor cards** — brand featured on a card people pick, **without changing card behavior/stats**.
+
+Cerebro response highlights:
+- “Love that — sponsored cards as placement, not pay-to-win. Logging it and dropping it into Notion so we don’t lose it.”
+- **Logged Dan Hill’s idea** into memory + **Growth Playbook** (idea log + short deep-dive)
+- Framing: partners pay to be *featured* (branding / skin / nameplate); **no change to stats or behavior**; second monetization surface next to stadium ads
+- Outbound angle: **“your brand on a card people pick every break”** — still fits news, snacks, casual-game partners
+- Offer: fold sponsored cards into partner pitch as inventory option #2 next to stadium ads
+
+Screenshot: `screenshots/day3-1710-04.png`
+
+_Further notes will land here if Wrap continues past ~5:15 PT / stream stays up._
+
 
 ## URLs captured (Day 3)
+- https://x.ai/bot/marketplace/bots/research
+- https://x.com/danhilltech
+- Clay (connector prompt in Cerebro; no public product URL shown on stream this pass)
 - https://x.com/i/broadcasts/1YGNrbXEeazGw
 - https://x.ai/galaxy
 - https://x.com/bot
