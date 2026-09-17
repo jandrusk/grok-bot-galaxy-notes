@@ -125,7 +125,54 @@ Screen share of GitHub commit page (views ~79.2K):
 
 Screenshots: `day3-1325-github-code.png`, `day3-1325-github-code-fullscreen.png`, `day3-1325-url-crop.png` (+ crop2/crop3)
 
-_Further notes will land here as sessions continue (Post-Sales ~12:30pm PT / ~3:30pm ET, Marketing ~2:30pm PT, Wrap/Showcase ~4:30pm PT)._
+### ~1:48–1:54pm ET — Cupcake feedback analytics + Thursday Arena home / X profile (Build A Game Studio)
+Presenter Mac menu bar ~**10:51–10:53am** (PT). Stream still LIVE (~**87.7K → 89.4K** views). Title unchanged: “Building a company in 3 days - launching today!”
+
+**Live agenda (on-stream overlay, times match presenter PT clock):**
+| Time (PT) | Block | Notes |
+| --- | --- | --- |
+| 9:45am–12:30pm | Build A Game Studio — Live build | In progress this check |
+| 12:30–1:15pm | **Grok Bot for Customer Success** — **Blake Schuler** | Named speaker |
+| 1:15–2:30pm | Build A Game Studio — Live build | |
+| 2:30–3:15pm | **Grok Bot for Marketing** — **Josh Kim** | Named speaker |
+| 3:15–4:30pm | Build A Game Studio — Live build | |
+
+Earlier ~1:48pm frame showed a denser checklist-style agenda (30–60m slices) with **Grok Bot For Customer Success** / **Grok Bot For Marketing** and a “Streaming” tag on Marketing; later frames settled on the table above with named speakers.
+
+**Panel:** Three people still in PiP (names not on lower-thirds). One later inset showed a man in a light polo on a laptop alone. Side panel users visible: **steve** (avatar label “chief of staff”), **bento**, **crumb**, “9 more”.
+
+#### A) `#cupcake-feedback` + feedback pie (~1:48–1:50pm ET)
+Screen share of dark workspace branded **shipbythursday**:
+- Channel / view: **`#cupcake-feedback`**
+- Header text: “New feedback from mobile web users:” (message bodies only partially readable: avatar-click bug; player named “drew”)
+- Modal / chart: **“Feedback Type (Last 30 days)”** / also seen as **“feedback from what users want”**
+- Pie segments (approx. from frames): **Bug** ~75% (red, largest); **Feature Request** ~12% (blue); **Praise / Love** ~9% (grey; one frame OCR’d “Other”); **Design / UI** ~4% (orange)
+- QR overlay still present (“Scan to get the app”) — destination **not decoded**
+
+Screenshots: `screenshots/day3-1348-cupcake-feedback.png`, `screenshots/day3-1349-feedback-pie.png`, `screenshots/day3-1350-feedback-pie-qr.png`
+
+#### B) Thursday Arena home + DevTools (~1:52pm ET)
+Browser on **https://thursdayarena.com/home** with Chrome DevTools open:
+- Header: **THURSDAY ARENA** + cupcake icon
+- Logged-in as **@mattyp** — **SILVER** rank, score **953**, log out
+- Buttons: **PLAY**, Leaderboard, Past matches, Bots, Send feedback
+- “Sponsor the lobby”: Kind company / Handle·entity / Market value / Submit interest
+- Console noise noted on stream: CSP `unsafe-eval` warning; 404 on `challenges.cloudflare.com`; “Vercel Web Analytics: Failed to load script…”
+- OpenGraph tooling also shown earlier in this segment: `thursdayarena.com/opengraph-image?32b092c8f6c9478c`, `opengraph.xyz/url/https%3A%2F%2Fthursdayarena.com`
+
+Screenshot: `screenshots/day3-1352-arena-og.png`
+
+#### C) X profile for the studio (~1:53–1:54pm ET)
+Screen share of **https://x.com/thursdayarena** (Edit profile visible — logged in as that account):
+- Display name **thursdayarena** (@thursdayarena)
+- Bio: **“A game studio by @mattyp @poletto and @roshan_s”**
+- ~**476** followers, 0 following; Joined September 2026
+- Avatar: pink cupcake with cherry; header dark grey
+- Onboarding cards (“Let's get you set up”) partially done
+
+Screenshot: `screenshots/day3-1353-thursdayarena-x.png`
+
+_Further notes will land here as sessions continue (Customer Success ~12:30pm PT, Marketing ~2:30pm PT, Wrap/Showcase later)._
 
 ## URLs captured (Day 3)
 - https://x.com/i/broadcasts/1YGNrbXEeazGw
@@ -148,4 +195,11 @@ _Further notes will land here as sessions continue (Post-Sales ~12:30pm PT / ~3:
 - https://thursdayarena.com/bots
 - https://github.com/shipbythursday/cupcake/commit/2ff1001d5ced377d8ff132053b0fb8073ec09d29
 - https://github.com/shipbythursday/cupcake (repo root implied by commit URL; public API 404 here)
+- https://thursdayarena.com/home
+- https://thursdayarena.com/opengraph-image?32b092c8f6c9478c
+- https://opengraph.xyz/url/https%3A%2F%2Fthursdayarena.com
+- https://x.com/thursdayarena
+- https://x.com/mattyp
+- https://x.com/poletto
+- https://x.com/roshan_s
 - QR destinations on stream (“Scan to get the app”) and on Starbase slide — **not decoded** this check
