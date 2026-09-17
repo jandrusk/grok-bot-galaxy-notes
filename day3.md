@@ -507,11 +507,45 @@ Cerebro response highlights:
 
 Screenshot: `screenshots/day3-1710-04.png`
 
-_Further notes will land here if Wrap continues past ~5:15 PT / stream stays up._
+### ~6:46–7:02pm ET — Still LIVE after Wrap; credits promo (check)
+
+Stream remained **LIVE** on X (`https://x.com/i/broadcasts/1YGNrbXEeazGw`) well after the ~5:10pm Wrap showcase. Viewers ~**163.5K → 166.1K**. x.ai embed (`https://x.ai/galaxy`) also active (“Follow the build.” / Watch on X). Broadcast title still **“Building a company in 3 days – launching today!”** (@bot).
+
+#### A) Pre-countdown glimpses (~6:46pm ET)
+Before the interstitial, the live feed briefly showed:
+- Thursday Arena **sponsor** surface — **`https://thursdayarena.com/sponsor`** (“Sponsor the lobby · Thursday Arena”)
+- Cursor / GitHub coding work, including mention of **PR #284** and **Grok 4.6** SVG / image handling
+- Four-person studio panel visible (no names / lower-thirds)
+
+Screenshots: `screenshots/day3-1846-galaxy.png`, `screenshots/day3-1846-broadcast.png`
+
+#### B) “Grok Bot Galaxy” countdown interstitial (~6:46–~6:55pm ET)
+Full-screen black interstitial: ring of colorful blob/character icons around **“Grok Bot Galaxy”** + countdown (~**08:47** at first capture → **07:07** mid-wait → **0:00**). Stream stayed LIVE through the countdown (viewers ~164K mid-countdown).
+
+Screenshot: `screenshots/day3-1851-current.png`
+
+#### C) Post-countdown studio panel + “Grok Bot Credits” (~6:55–7:02pm ET)
+Countdown hit **0:00**; stream stayed LIVE (~**165.5K → 166.1K**).
+
+**Studio:** four panelists around a round table (3 men, 1 woman; laptops open). Backdrop: blue **Grok Bot Galaxy** wall graphic. No names or lower-thirds visible. Chat sidebar blank in captures.
+
+**Slide — “Grok Bot Credits”** (PiP of panel in corner):
+1. Within the next 5 minutes: Post in chat **“credits”**
+2. You will receive Grok Bot credits by the end of the day (**$200 in value**)
+3. Disclaimer: **“Valid for livestream viewers only”**
+
+QR overlay still **“Scan to get the app”** (X logo in QR; destination **not decoded** this check). No new product URLs / repos / demos in the ~90s post-countdown watch beyond the credits promo.
+
+Screenshots: `screenshots/day3-1851-postcountdown-01.png`, `screenshots/day3-1851-postcountdown-02.png`, `screenshots/day3-1851-postcountdown-03.png`
+
+_Further notes will land here if the evening panel continues._
+
 
 
 ## URLs captured (Day 3)
 - https://x.ai/bot/marketplace/bots/research
+- https://thursdayarena.com/sponsor
+- Grok Bot Credits promo (chat keyword “credits”; $200 value; livestream viewers only; no separate URL shown)
 - https://x.com/danhilltech
 - Clay (connector prompt in Cerebro; no public product URL shown on stream this pass)
 - https://x.com/i/broadcasts/1YGNrbXEeazGw
