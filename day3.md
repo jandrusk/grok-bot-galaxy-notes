@@ -333,7 +333,72 @@ Page chrome bot counters ~**47** bots / **267** messages / **2** working / **19*
 
 Screenshots: `screenshots/day3-1549-cupcake-kpis.webp`, `screenshots/day3-1544-main-08-xai-embedded.png`, `screenshots/day3-1544-main-09-xai-embedded.png`
 
+### ~4:16–4:25pm ET — CS continues: Scout brief, staff meeting priorities, Franny expands ROI form
+Stream still **LIVE** (title unchanged). X broadcast briefly hit **“Be right back”** (~**121.2K→121.4K** views) around ~4:19–4:21pm ET, then content resumed on https://x.ai/galaxy (embed badge still ~**108.1K**; stream clock ~4:16–4:20 elapsed). Presenter still the woman matching agenda **Blake Schuler** / Customer Success (white blouse, stage PiP; no new name card).
+
+#### E) Scout risk/people brief on Gus Agent Desk (~4:16–4:18pm ET)
+Gus **Chief of Staff** / **Agent Desk** UI with Dream Team still: **Franny Form**, **Wally Writer**, **Trudy Truth** (selected in one frame), **Frankie Follow Up**, **Scout**. Accounts: **Harbor Account**, **Marketplace**, **Blake GB Demo**.
+
+**Scout** message (space-party joke opener) — structured brief:
+- **Risk:** Agent Desk **SSO is P0**. Maya’s line: unblock **Patel, Ruiz, Nguyen** this week or **QBR** gets ugly. Night-shift week of **Sep 22** needs ~**8 training seats** (answer by Friday). **Atlas** stays soft, not a PO. **Station 12** as QBR win story; access is the live risk.
+- **People:** Champions **Maya Chen** and **Jordan Lee**. **Priya Nair** on Atlas soft. AE **Alex** on `#flylo-postsales`.
+- **Blockers:** SSO loop access-pending for Patel/Ruiz/Nguyen. **Harbor IT** says IdP matches the **FlyLo** ask → likely seat map / role sync. Trainer checklist blocked until access green.
+- **Open promises:** (1) Next-steps to Maya (owners + dates) for Priya; (2) Chase SSO/seats + Jordan working session (**Thu 11 ET** / Fri 10 fallback); (3) Atlas one-pager + 20-min with Maya/Priya next week.
+
+**Routines** (unchanged from earlier check): Daily brief weekdays 8:30 AM; Call prep every 15m weekdays; Unfinished promises weekdays 9:00 AM / 1:00 PM; Ask watch every 15m weekdays; Visibility watch weekdays 8:00 AM.
+
+Gus chat prompt shown: “start a staff meeting to talk about what I should spend the next and only free day today doing”.
+
+Expanded numbered board (later frame) also listed: trimmed QBR agenda by Friday; 8 training seats answer by Friday; trainer checklist after access green. **Board / Slack:** GO OUT NOW full (**3/3**, drafts only) — Maya+Priya Gmail, Alex Slack (new champion + ROI PDF), FlyLo ROI PDF; HOLD Brightline + brand outbound; Slack quiet since Sep 14.
+
+Screenshots: `screenshots/day3-1622-gus-scout-brief.webp`, `screenshots/day3-1623-01.png`, `screenshots/day3-1616-northwind-form-continue.png`
+
+#### F) Staff meeting — Harbor / Northwind / Brightline / Frankie / Scout priority call (~4:19–4:21pm ET)
+Unassigned **Staff meeting** thread. Accounts sidebar now shows **Harbor**, **Brightline** (“Override locked — Sam Orti…”), **Northwind**.
+
+**Gus** asked agents for top 1–2 priorities for Blake’s one free hour (what / why / urgency); will decide go-first. Context: Harbor SSO P0; GO OUT NOW drafts staged; open promises (one-pager, **Bugbot**, **iPad SSO**, 8 seats Fri); Brightline HOLD; Northwind light; **Internal Learnings** wrapping ~**2:15 PT**.
+
+Agent replies (priority stack):
+- **Harbor:** (1) Go first — Agent Desk SSO for Patel/Ruiz/Nguyen; chase Jordan/provisioning. (2) If minutes left — bless Maya next-steps email (cc Priya) staged on GO OUT NOW (Atlas soft + QBR trim). Constraint: drafts only until Blake blesses. Disagree focusing Brightline/Northwind/Internal Learnings this hour.
+- **Northwind:** Don’t spend free hour on us — still green/light; Sam doesn’t need Blake live today; no GO OUT NOW items. Soft HOLD later only: Q4 what’s-new / mid-Oct enablement.
+- **Brightline:** Don’t spend on us — usage dip + ROI form stay HOLD; Dana/Riley pack draft-only. Soft later: stage usage readout after Harbor SSO/Maya work — not a live Dana call.
+- **Frankie Follow Up:** Protect the cap — GO OUT NOW already 3/3 Harbor. After SSO chase, bless Maya next-steps first; AE Slack second; ROI PDF behind brand HOLD until Priya’s voice note unless Blake overrides. No new drafting.
+- **Scout:** Agree SSO first; FlyLo Slack quiet after Sep 14. Twin-join cover in `#flylo-postsales` stays HOLD; Brightline/Northwind throwaways this hour.
+
+Gus holding for Frankie/Scout/Northwind/Brightline before calling go-first after Harbor’s SSO-first track.
+
+Screenshots: `screenshots/day3-1623-02.png`, `screenshots/day3-1623-03.png`, `screenshots/day3-1623-04.png`, `screenshots/day3-1624-staff-meeting.webp`
+
+#### G) Franny Form — Northwind ROI form finished as 5Q + share link (~4:18–4:22pm ET)
+Chat (replayed ~12:44): “Make me an roi form for northwind” → **Franny Form**: “Building a Northwind Logistics FlyLo ROI form (**default 5Q**). Draft only — I won’t send it. Creating it in Google Forms now — I’ll send the share link when it’s live.” Philosophy blurb reiterated: treat create and send as separate jobs; forms as “a quiet operating system for learning.”
+
+Brief flash of a blank **Untitled form / Untitled Question** (multiple choice) mid-demo, then named form again.
+
+Live Google Forms editor showed expanded required short answers; Gus feed later listed the full **5Q** set for **Northwind Logistics — FlyLo ROI check-in**:
+1. What team / role are you on?
+2. What’s your primary use case with FlyLo?
+3. What does “done” look like in 30 days?
+4. What’s the biggest blocker right now?
+5. How many seats, and what success metric matters most?
+
+Form chrome showed **Published**. Franny notified Gus: finished Northwind ROI form (draft only); note that an earlier Northwind form build had been cancelled.
+
+**Public share / view URL** (from Gus feed):
+`https://docs.google.com/forms/d/e/1FAIpQLSf098Qcv3BBxKsLJ-S99RwdPbakUw4CECVZJdrJ5IZdLEy_A/viewform`
+
+Prior edit URL still relevant: `https://docs.google.com/forms/d/1Xl-t6qaT-gmNke4lbeloKJnjep7-M-lnGRv6St-Ar6I/edit`
+
+**Franny’s staff-meeting synthesis** for Blake’s free hour (posted into Gus):
+- **Go first:** Chase Harbor Agent Desk SSO for Patel/Ruiz/Nguyen — lock Jordan/provisioning status and a same-day update time (only P0).
+- **Next:** Bless/send staged Maya next-steps email (cc Priya); AE Slack second if still free.
+- **Hold/park:** Brightline, Northwind, twin-join, new drafting. GO OUT NOW already 3/3 Harbor.
+
+QR “Scan to get the app” still on X player (destination still not decoded).
+
+Screenshots: `screenshots/day3-1618-untitled-form.webp`, `screenshots/day3-1623-05.png`, `screenshots/day3-1625-01.png`, `screenshots/day3-1625-northwind-form-expanded.webp`
+
 _Further notes will land here as sessions continue (Wrap/Showcase later)._
+
 
 
 ## URLs captured (Day 3)
@@ -368,6 +433,9 @@ _Further notes will land here as sessions continue (Wrap/Showcase later)._
 - https://x.com/vincentzhu
 - https://x.com/matt_silberman
 - https://docs.google.com/forms/d/1Xl-t6qaT-gmNke4lbeloKJnjep7-M-lnGRv6St-Ar6I/edit
+- https://docs.google.com/forms/d/e/1FAIpQLSf098Qcv3BBxKsLJ-S99RwdPbakUw4CECVZJdrJ5IZdLEy_A/viewform (Northwind FlyLo ROI check-in — public/view link)
 - Featherrail Logistics / Northwind Logistics / Flightline Health / FlyLo (demo account names; no public product URLs shown)
 - Slack channel `#flylo-postsales` (demo)
+- Brightline / Harbor / Northwind / Station 12 / Atlas / Agent Desk / GO OUT NOW (demo account & workflow names; no new public product URLs)
+- Bugbot / iPad SSO (mentioned as open promises in staff meeting)
 - QR destinations on stream (“Scan to get the app”) and on Starbase slide — **not decoded** this check
