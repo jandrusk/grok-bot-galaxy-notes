@@ -321,3 +321,47 @@ Clean version of combat / onboarding rules being locked for ship:
 - Soundtrack direction skews **orchestral stadium / boss-fight score**, not chiptune/EDM drops for the battle suite.
 - Product UI progress: marketplace bot-template hire path + global leaderboard shell live in the Cupcake web app.
 - Screenshots: `/workspace/grok-bot-galaxy-screenshots/day2-evening4-check-01.png`–`06.png`
+
+### ~7:49–8:20pm ET (4:49–5:20pm PT) — Cupcake wrap: triage, eggbot plan, ads PR, outro offer
+- Stream ended as replay: https://x.com/i/broadcasts/1PKqrNyvmYwGb (~391.6K views; duration **8:23:18**)
+- X title unchanged: “Grok Bot builds a Game Studio LIVE”
+- Outro: “Thanks for tuning in” + **“Final day starts tomorrow at 8:30am PST”** (Day 3)
+
+#### Slack bug triage (Cupcake eng bots)
+- Channel/thread with eng fleet: **crumb** (playtester), **hashbrown** (reviewer), **tater** (engineer), **mash** (merge), **whisk** (game designer), **planetscale** (DBA), **grokpot** (prototyper)
+- Real bug: `POST /api/collection/import` → **`bootstrap_failed` (500)**; tater digging import/db (rate-limit table / mint insert / template fetch); fix PR expected
+- **Issue #51** (verify-cupcake): needed before mash merge — doctor/drive should match mash style: login **button** (not `/sign-in` link), drop stale `/sign-up` route assumptions; crumb patching #51
+- After #47 retest: “mash home is back”; new-tab oauth still open until **#50**; `bootstrap_failed` still open
+
+#### “the real dr eggbot” planning note (bot design)
+- Goal: **ship Cupcake end-to-end** (`auth → play → seasons/3v3`), with **Notion as the only task SoT** — not build a bigger bot org
+- Roster called out:
+  - Critical path: steve (CoS), bento (pm/notion), tater (eng), hashbrown (review), mash (merge), crumb (playtest), ping (slack)
+  - Design/adjacent: whisk, grokpot, planetscale
+  - Parkable: X/socials, merch/tickets until game loop is real
+  - Diagnosis: “you're not under-botted. you're **coordination-bound**.”
+- Bottlenecks (ranked):
+  1. Serial factory + human merge gate (tater → hashbrown → you/steve → mash)
+  2. Lauren as interrupt bus; status fragmented across chats
+  3. Notion lag if board not updated → steve rediscovers in Slack
+  4. Playtest blocked on env/auth before real game QA
+  5. Passive CoS relapse (narrate vs chase-to-done)
+  6. Scope bleed (merch/tickets/social before sign-in loop works)
+- Recommendations surfaced in session notes: one dashboard / zero status spam; auto-merge after reviewer approval + green checks
+
+#### Cursor PR #40 — Cupcake ads MVP
+- Draft PR: **`feat(ads): bid intake and ops still lobby billboard #40`**
+- Branch `cursor/cupcake-ads-mvp-d779` → `main`; **34 files**, **+4298 / −25**; checks **5/5 passed**
+- Agent rebasing onto main (handler constructor / testkit issuer changed; Next.js moved under `src/app`; re-homing ads UI)
+- Notable surface: `<AdminAdsShell />` on admin page; ads API incl. `@vercel/blob` route (`apps/web/app/api/admin/ads/blob/route.ts`)
+
+#### Outro promo slide
+- “Want free Grok Bot?” — free month (**$200 value**)
+- Steps: **Duplicate and create a bot with dr eggbot**; *only* first **1,000** users; exclusive on-stream offer + QR
+
+#### Takeaways
+- Day 2 closed on Cupcake ops maturity: import/bootstrap 500 + auth-route consistency (#51/#50) still blocking clean playtest
+- Eggbot framing: coordination > more bots; Notion SoT + thinner merge gate
+- Ads/lobby billboard MVP landed as large green PR (#40) during wrap
+- Day 3 teed for **8:30am PST** tomorrow
+- Screenshots: `/workspace/grok-bot-galaxy-screenshots/day2-evening5-check-01.png`–`07.png`
