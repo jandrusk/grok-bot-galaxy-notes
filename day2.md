@@ -5,17 +5,19 @@ Times below are Eastern (ET) unless noted. Stream window: ~11:30am–9:00pm ET (
 ## Agenda (Pacific)
 - 8:30–9:00am PT — Day 2 Livestream Starts
 - 9:00–10:30am PT — Grok Bot for Sales Engineering (Amrita Venkatraman)
-- 12:30–2:00pm PT — Grok Bot for Sales (SpaceXAI Sales Team)
-- 2:30–3:30pm PT — Grok Bot for SDRs (Simon Lackowski)
+- 12:30–2:00pm PT — Grok Bot for Sales / GTM (Krista Letz / @kristaletz; agenda listed “SpaceXAI Sales Team”)
+- 2:30–3:30pm PT — Grok Bot for SDRs (Simon Lackowski / @SimonLackowskii)
 - 4:00–5:00pm PT — Grok Bot for Customer Support (David Gan)
 - 6:00pm PT — Day 2 Livestream Ends
 
 ## Live company build
-Matt Palmer, Lauren Tan, Roshan Sadanani continuing the 3-day company build (seen early Day 2 before role sessions).
+Matt Palmer (@mattyp), Lauren Tan (@poteto), Roshan Sadanani (@roshan_s) continuing the 3-day company build (seen early Day 2 before role sessions).
 
 ## Stream
 - Day 2 URL: https://x.com/i/broadcasts/1PKqrNyvmYwGb
 - Hub: https://x.ai/galaxy
+- Host: Grok Bot (@bot)
+- Title on X (mid/late day): **“Grok Bot builds a Game Studio LIVE”**; promo also “Day 2: Grok Bot Galaxy Livestream”
 
 ## Session notes
 
@@ -365,3 +367,23 @@ Clean version of combat / onboarding rules being locked for ship:
 - Ads/lobby billboard MVP landed as large green PR (#40) during wrap
 - Day 3 teed for **8:30am PST** tomorrow
 - Screenshots: `/workspace/grok-bot-galaxy-screenshots/day2-evening5-check-01.png`–`07.png`
+
+
+## Replay / recordings status (checked Tue Sep 22, 2026)
+- Day 2 **ENDED**; full replay still up: https://x.com/i/broadcasts/1PKqrNyvmYwGb
+- Title on X: **“Grok Bot builds a Game Studio LIVE”** (@bot); state **ENDED** / player shows **REPLAY** (promo / hub also still label the day “Day 2: Grok Bot Galaxy Livestream”)
+- Duration **~8:23:19**; views **~747K** (747,319 totalWatched). End-of-day notes had **8:23:18** / ~391.6K — views roughly doubled since Sep 16 close.
+- Hub https://x.ai/galaxy **“Watch the recordings”** links the same three X broadcasts (Day 1 / Day 2 / Day 3) as above.
+- Official Day 2 recording pointer (**Josh Kim**, Fri Sep 18): https://x.com/joshkim/status/2100996898106826926 — resolves to the same full-day X broadcast via @bot Day 2 promo https://x.com/bot/status/2100246135420199140. Session lineup he lists:
+  - Grok Bot for Sales Eng w/ **@iamrita98** (Amrita Venkatraman)
+  - Grok Bot for GTM w/ **@kristaletz** (**Krista Letz**) — agenda only said “SpaceXAI Sales Team”
+  - Grok Bot for SDRs w/ **@SimonLackowskii** (Simon Lackowski; note double-`i` handle)
+- Josh’s Day 2 pointer **omits** Customer Support (**David Gan** in agenda / on-stream FlyLo demo). Support still lives inside the full Day 2 broadcast; no separate official Support VOD found.
+- **No** separate official per-session VOD set for Day 2 matching Josh Kim’s Day 3 Marketing cut. No official YouTube multi-part Galaxy Day 2 set found.
+- Related (not Galaxy Day 2 cut): Krista Letz GTM **workshop** on YouTube — https://www.youtube.com/watch?v=JZQsf5AXEig (“Grok Bot for GTM: From Prospecting to Customer Calls”; Zoom-style Q&A with Vincent moderating). Same presenter / topic family as the Galaxy GTM block, but a separate workshop recording, not a scrub of the Day 2 livestream.
+- Unverified community clips / recaps (not official session VODs):
+  - https://x.com/Brankotrcek/status/2100648941708620124 — ~44m Sales Engineering excerpt (Mimi / Sherlock timestamps claimed)
+  - https://x.com/MaiYangAI/status/2100577237225345164 — Day 2 Sales Engineering w/ bilingual subtitles (~90m community cut)
+  - https://x.com/Guelug/status/2100561155529781349 — “Day 2 Grok Bot for Sales Engineering” community video (~54m)
+  - https://x.com/DevinSoto/status/2100381770604753328 — personal Day 2 notes dump
+  - https://x.com/gliang9/status/2100462245335429234 → article “Grok Bot Day 2 Live Report: Cupcake…”

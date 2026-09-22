@@ -4,14 +4,14 @@ Times below are Eastern (ET) unless noted. Stream window: ~11:30am–9:00pm ET (
 
 ## Agenda (Pacific)
 - 8:30–9:00am PT — Livestream starts
-- 9:00–10:00am PT — Grok Bot 101 (Roman Ugarte)
+- 9:00–10:00am PT — Grok Bot 101 (Roman Ugarte, Amrita Venkatraman / @iamrita98)
 - 12:30–2:00pm PT — Grok Bot for Engineering (Lingxi Li)
-- 2:30–3:30pm PT — Grok Bot for Product Managers (Kevin Niparko)
+- 2:30–3:30pm PT — Grok Bot for Product Managers (Kevin Niparko / @n2parko, Roshan Sadanani / @roshan_s)
 - 4:00–5:30pm PT — Grok Bot for Founders (Shub Gaur)
 - 6:00pm PT — Day 1 ends
 
 ## Live company build
-Matt Palmer, Lauren Tan, Roshan Sadanani building a company from scratch with Grok Bot over 3 days.
+Matt Palmer (@mattyp), Lauren Tan (@poteto), Roshan Sadanani (@roshan_s) building a company from scratch with Grok Bot over 3 days (confirmed on @bot Day 1 promo).
 
 ## Session notes
 
@@ -254,3 +254,25 @@ Most consistent readable fragments across screenshots:
 - Final minutes match the company-build window above (remote woman in Grok Bot cap + studio trio; whiteboard with green magnets still visible near 08:43)
 - Hard close on a **“Grok Bot Galaxy”** end graphic (colorful blob/eye marks) — no Day 1 wrap slide, thank-you, or tomorrow schedule
 - https://x.ai/galaxy pointed only at this same X broadcast; no other LIVE Galaxy stream found on the ~8:41pm ET check
+
+
+## Replay / recordings status (checked Tue Sep 22, 2026)
+- Day 1 **ENDED**; full replay still up: https://x.com/i/broadcasts/1AxRnZbVpjaxl
+- Title on X: **“Day 1: Grok Bot Galaxy Livestream”** (@bot); state **ENDED** / player shows **REPLAY**
+- Duration **~8:51:13**; views **~1.63M** (1,626,033 totalWatched on page meta). End-of-day notes had **08:45:18** / ~1.1M — scrub length + views have grown since Sep 15 close.
+- Hub https://x.ai/galaxy now has **“Watch the recordings”**:
+  - Day 1: https://x.com/i/broadcasts/1AxRnZbVpjaxl (~8:51:13, ~1.63M views)
+  - Day 2: https://x.com/i/broadcasts/1PKqrNyvmYwGb (~8:23:19, ~747K views)
+  - Day 3: https://x.com/i/broadcasts/1YGNrbXEeazGw
+- Official Day 1 recording pointer (**Josh Kim**, Fri Sep 18, same thread as Marketing demo): https://x.com/joshkim/status/2100996896575861157 — resolves to the same full-day X broadcast via @bot Day 1 promo https://x.com/bot/status/2099890276315848743. Session lineup he lists:
+  - Grok Bot 101 w/ **@romanugarte_** + **@iamrita98** (Amrita)
+  - Grok Bot for Engineering w/ **@lingxi** (Lingxi Li)
+  - Grok Bot for PMs w/ **@n2parko** (Kevin Niparko) + **@roshan_s**
+  - Grok Bot for Founders w/ **@shubgaur**
+- Official company-build hosts (from @bot Day 1 promo): **Matt Palmer (@mattyp)**, **Lauren Tan (@poteto)**, **Roshan Sadanani (@roshan_s)** — notes often marked these “likely / unconfirmed.”
+- **No** separate official per-session VOD set for Day 1 (unlike Josh Kim’s ~42:24 Marketing demo cut for Day 3). No official YouTube multi-part Galaxy Day 1 set found; hub “recordings” are the X broadcasts.
+- Related (not a Day 1 session cut): Lauren Tan (@poteto) Cursor Compile talk posted Mon Sep 21 — https://x.com/poteto/status/2102050467505430555 (~38:01) — she notes she missed Compile London because of Galaxy livestreaming. Treat as adjacent eng talk, not Galaxy VOD.
+- Unverified community leads (rewatch / recap only, not official):
+  - https://x.com/SPCX100T/status/2100084202653757461 — Day 1 full recap (~8h45m framing)
+  - https://x.com/MaiYangAI/status/2100039483131637915 — Chinese Day 1 recap
+  - https://x.com/PhilipNora7/status/2100031231287009733 → article “What Grok Bot Galaxy Day 1 Actually Showed”
