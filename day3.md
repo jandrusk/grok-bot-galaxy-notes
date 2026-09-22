@@ -540,6 +540,20 @@ Screenshots: `screenshots/day3-1851-postcountdown-01.png`, `screenshots/day3-185
 
 _Further notes will land here if the evening panel continues._
 
+Stream **ENDED around 7:28:50pm ET Sep 17**; the replay is approximately **7:58:39**.
+
+## Replay / recordings status (checked Tue Sep 22, 2026)
+- Day 3 **ENDED**; full replay still up: https://x.com/i/broadcasts/1YGNrbXEeazGw
+- Duration **~7:58:39**; views **~349.9K** (was ~180.7K on Sep 17 evening)
+- Hub https://x.ai/galaxy now has **“Watch the recordings”**:
+  - Day 1: https://x.com/i/broadcasts/1AxRnZbVpjaxl (~8:51:13, ~1.63M views)
+  - Day 2: https://x.com/i/broadcasts/1PKqrNyvmYwGb (~8:23:19, ~747K views)
+  - Day 3: https://x.com/i/broadcasts/1YGNrbXEeazGw
+- Official Marketing demo VOD (**Josh Kim**, posted Fri Sep 18 ~1:14pm ET): https://x.com/joshkim/status/2100996894290006294 (~42:24) — topics claimed: audit new product → ship landing page → build/analyze paid campaigns → automate end-to-end. Video: https://x.com/joshkim/status/2100996894290006294/video/1
+- Related pointer (same full-day broadcast): https://x.com/joshkim/status/2100996899562287430
+- No separate YouTube / multi-part official VOD set; official “recording” posts resolve to the same X broadcasts.
+- Unverified late-stream leads (community write-up, not rewatched): https://x.com/Jim50836619/status/2101120256563466537 → https://x.com/i/article/2101119593989406721 — claims closing Cupcake KPIs, prod SQL outage ~replay t=7:50 / back t=7:54, PR-count discussion, “company = Thursday” naming. Treat as **rewatch leads only**.
+
 
 
 ## URLs captured (Day 3)
