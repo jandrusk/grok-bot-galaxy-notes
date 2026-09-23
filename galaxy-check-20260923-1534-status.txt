@@ -1,0 +1,4 @@
+checked=2026-09-23T15:34:40-04:00
+page=https://x.ai/galaxy
+status=offline/replays-only
+content=Sep 15-17 Watch the recordings only; Watch on YouTube / Watch Day N on X; no live stream, new announcements, or future dates

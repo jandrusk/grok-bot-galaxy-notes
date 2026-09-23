@@ -1,0 +1,4 @@
+checked=2026-09-23T16:02:00-04:00
+page=https://x.ai/galaxy
+status=offline/replays-only
+content=No live stream. Hub now lists Watch the sessions (10 official YouTube VODs) + Watch the full days (same 3 X broadcasts). Session YouTube URLs appended to day1.md/day2.md/day3.md.

@@ -276,3 +276,15 @@ Most consistent readable fragments across screenshots:
   - https://x.com/SPCX100T/status/2100084202653757461 — Day 1 full recap (~8h45m framing)
   - https://x.com/MaiYangAI/status/2100039483131637915 — Chinese Day 1 recap
   - https://x.com/PhilipNora7/status/2100031231287009733 → article “What Grok Bot Galaxy Day 1 Actually Showed”
+
+## Hub session YouTube VODs (checked Wed Sep 23, 2026 ~4:02pm ET)
+Stream still offline / replays-only. https://x.ai/galaxy now has **“Watch the sessions”** (per-session YouTube cuts) plus **“Watch the full days”** (same X broadcasts as before). This supersedes the Sep 22 note that Day 1 had no official per-session VOD set.
+
+### Watch the sessions (Day 1)
+- Grok Bot for Engineers — Lingxi Li — https://www.youtube.com/watch?v=zCqmTSF2ctg
+- Grok Bot for Product Managers — Kevin Niparko and Roshan Sadanani — https://www.youtube.com/watch?v=gNysgEu-lew
+- Grok Bot for Founders — Shub Gaur — https://www.youtube.com/watch?v=hPE3A4Smkxc
+
+### Watch the full days (hub card)
+- Day 1: Grok Bot Galaxy Livestream — 8:45:18 — ~1,066,889 views — https://x.com/i/broadcasts/1AxRnZbVpjaxl
+- Screenshots: `/workspace/grok_bot_galaxy_screenshots/galaxy-check-20260923-1601-hero.png`, `…-sessions.png`, `…-full-days.png`

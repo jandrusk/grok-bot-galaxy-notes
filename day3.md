@@ -610,3 +610,14 @@ Stream **ENDED around 7:28:50pm ET Sep 17**; the replay is approximately **7:58:
 - Vercel Analytics project ThursdayArena (dashboard; no public share URL shown)
 - crumb / crumble / #bug-reports / #bug-repro / arena-brown-nine (internal demo tooling)
 - QR destinations on stream (“Scan to get the app”) and on Starbase slide — **not decoded** this check
+
+## Hub session YouTube VODs (checked Wed Sep 23, 2026 ~4:02pm ET)
+Stream still offline / replays-only. https://x.ai/galaxy now has **“Watch the sessions”** with official YouTube cuts (not only the full-day X broadcasts / Josh Kim’s earlier X Marketing post).
+
+### Watch the sessions (Day 3)
+- Grok Bot for Marketing Operations — Matthew Silberman and Teresa Hsu — https://www.youtube.com/watch?v=EA-sxwWK0Vs
+- Grok Bot for Post Sales — Blake Schuller — https://www.youtube.com/watch?v=EGt8FfTmTMY
+- Grok Bot for Marketing — Josh Kim — https://www.youtube.com/watch?v=db38-FgdaGQ
+
+### Watch the full days (hub card)
+- Day 3: Building a company in 3 days - launching today! — 7:58:22 — ~172,938 views — https://x.com/i/broadcasts/1YGNrbXEeazGw

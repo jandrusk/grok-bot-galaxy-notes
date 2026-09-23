@@ -387,3 +387,15 @@ Clean version of combat / onboarding rules being locked for ship:
   - https://x.com/Guelug/status/2100561155529781349 — “Day 2 Grok Bot for Sales Engineering” community video (~54m)
   - https://x.com/DevinSoto/status/2100381770604753328 — personal Day 2 notes dump
   - https://x.com/gliang9/status/2100462245335429234 → article “Grok Bot Day 2 Live Report: Cupcake…”
+
+## Hub session YouTube VODs (checked Wed Sep 23, 2026 ~4:02pm ET)
+Stream still offline / replays-only. https://x.ai/galaxy now lists official per-session YouTube cuts under **“Watch the sessions”** (including Customer Support, which Josh’s Day 2 X pointer omitted). Supersedes the Sep 22 “no official Day 2 per-session VOD set” note.
+
+### Watch the sessions (Day 2)
+- Grok Bot for Sales Engineers — Amrita Venkatraman — https://www.youtube.com/watch?v=tpDfoh5qPF8
+- Grok Bot for Sales — Krista Letz and Mark Wright — https://www.youtube.com/watch?v=SVZe46xaVTg
+- Grok Bot for SDRs — Simon Lackowski — https://www.youtube.com/watch?v=Iia8EF7niiA
+- Grok Bot for Customer Support — David Gan — https://www.youtube.com/watch?v=BSB--jUnx9U
+
+### Watch the full days (hub card)
+- Day 2: Grok Bot builds a Game Studio LIVE — 8:23:19 — ~375,225 views — https://x.com/i/broadcasts/1PKqrNyvmYwGb
